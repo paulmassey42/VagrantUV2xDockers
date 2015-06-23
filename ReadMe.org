@@ -1,0 +1,49 @@
+#+TITLE: Vagrant ReadMe
+
+* Introduction
+
+This will build the vagrant machine for the 2.0.1 version of 
+the UnifiedViews packages.
+
+* Before Starting
+
+Download "ojdbc7.jar" from the Oracle site [1].It is to be placed in
+the directory with the VagrantFile (once cloned).
+
+[1] http://www.oracle.com/technetwork/database/features/jdbc/jdbc-drivers-12c-download-1958347.html
+
+* Building the Vagrant Machine for Unified Views 2.0.1
+
+On the command line:
+
+- *git clone https://github.com/paulmassey42/VagrantUnifiedViews2.x.git*
+- *cd VagrantUnifiedViews2.x*
+- *vagrant plugin install vagrant-vbguest*
+- *vagrant plugin install vagrant-docker-compose*
+- *vagrant up*
+  Possibly select you network interface connection point
+  This will take a *long* time the first time
+
+Then to make sure the GUI interface is usable from the virtual machine
+
+- *vagrant halt*
+- *vagrant up*
+
+Then it should be possible to use the virtual machine
+ 
+- Login password: /vagrant/
+
+- Select the iceweasel web-browser
+
+- access http://localhost:28080/unifiedviews
+
+  Login account  : /admin/
+  Login password : /test/
+
+- Unifiedviews functions should then be accessible.
+
+* Notes:
+- Depending on the underlying system, it seems that the network
+  connections settings sometimes cause problems (*halt*, wait a while
+  and *up* again, normally clears the problem).
+- some freezes have been observed.

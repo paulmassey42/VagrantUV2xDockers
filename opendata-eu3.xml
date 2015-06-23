@@ -1,0 +1,3708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+xmlns:rdf= "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dcat= "http://www.w3.org/ns/dcat#"
+xmlns:foaf= "http://xmlns.com/foaf/0.1/"
+xmlns:adms= "http://www.w3.org/ns/adms#"
+xmlns:vcard= "http://www.w3.org/2006/vcard/ns#"
+xmlns:dcterms= "http://purl.org/dc/terms/"
+xmlns:rdfs= "http://www.w3.org/2000/01/rdf-schema#">
+<dcat:Catalog rdf:about="idCatOrg1205">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1205">
+      <foaf:name>1205 - ΤΜΗΜΑ ΔΑΣΩΝ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsA4068E20D2CB7ED9C2257D960036EF80">
+<dcat:title xml:lang="el">Ετήσιες Εκθέσεις Τμήματος Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource=""></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds34E02C6C58ECC655C2257D97002E5AFD">
+<dcat:title  xml:lang="el">Τιμοκατάλογος Τμήματος Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/1e847ff1e7188caec22577c30019ae94?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds6B8358F7A5B45C45C2257D9600392221">
+<dcat:title  xml:lang="el">Χάρτης δικτύου ΦΥΣΗ 2000 (NATURA)</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τομέας Πάρκων και Περιβάλλοντος</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:nature@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/all/539F3A168CB5DB29C2257AB80020B2DB?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds15E623126458DC1EC2257D960036B851">
+<dcat:title  xml:lang="el">Δασική Νομοθεσία / Δασική Πολιτική / Κανονισμοί</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLlegislation_gr/DMLlegislation_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsD413864ED3D99DFBC2257D97002B68BC">
+<dcat:title  xml:lang="el">Οδηγός Διαχείρισης Κινδύνων στις Δασικές Εργασίες</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/29dcc5ae89046be0c2257930001bde21?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsDF26133530101D42C2257D9A002474F7">
+<dcat:title  xml:lang="el">Γενικές Οδηγίες για την Ορθή και Ασφαλή Συγκομιδή Ξυλείας / Καυσοξύλων από το Δάσος </dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/all/B074741C4BB39D27C2257AA2003665B5?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds518CB2E0B286EEBEC2257D9A0031BD83">
+<dcat:title  xml:lang="el">Μονοπάτια Μελέτης της Φύσης - Οδηγός δημιουργίας και διαχείρισης δασικών μονοπατιών στην Κύπρο</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου, Ανδρέας Νεάρχο</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy, anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLtrails_gr/DMLtrails_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsBFE541F78B91949EC2257D9600371247">
+<dcat:title  xml:lang="el">Δασικά Μέτρα Προγράμματος Αγροτικής Ανάπτυξης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Μονάδα Εφαρμογής Προγράμματος Αγροτικής Ανάπτυξης</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mesa@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLdevplan_gr/DMLdevplan_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE5D9910300311908C2257D9A0024020B">
+<dcat:title  xml:lang="el">Φωτογραφικό Υλικό Ενδημικών ειδών χλωρίδας</dcat:title>
+<dcat:description>Φωτογραφίες ενδημικών ειδών χλωρίδας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Χ.Σ. Χριστοδούλου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:floracy@primehome.com"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLphotos_gr/DMLphotos_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsF898EFC63613A99DC2257D9A00324EF7">
+<dcat:title  xml:lang="el">Κυκλάμινο, το Εθνικό μας φυτό και Λατζιά, το Εθνικό μας δέντρο</dcat:title>
+<dcat:description>Πληροφοριακό υλικό για το εθνικό φυτό (κυκλάμινο) και το εθνικό δέντρο (λατζιά) της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/bb1649b6a125d106c225710a00286cc0?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0474088934FE7A9BC2257D9A0023746A">
+<dcat:title  xml:lang="el">Κατάλογος θηλαστικών ειδών που υπάρχουν στην Κύπρο</dcat:title>
+<dcat:description>Επιστημονικό όνομα θηλαστικών ειδών που υπάρχουν στην Κύπρο - χερσαία, θαλάσσια, νυχτερίδες</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Χάρης Νικολάου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:nicolaouharis@cytanet.com.cy   "/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0474088934FE7A9BC2257D9A0023746A/$file/"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9DF6AC4CC8A6E710C2257D96003637BE">
+<dcat:title  xml:lang="el">Διαχειριστικό Σχέδιο Εθνικού Δασικού Πάρκου Μαχαιρά</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/all/4B08A7C6B1335C6BC22579F0002EC2FF?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsCD69FCE759BC93EEC2257D97002B2AB2">
+<dcat:title  xml:lang="el">Γενικές Οδηγίες προς το κοινό - Εθελοντές - για την Ασφαλή Κατάσβεση Δασικών Πυρκαγιών </dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/all/328EBE694F53C485C2257B2E0026C99E?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8987DA3D1DDB48EBC2257D97002188D5">
+<dcat:title  xml:lang="el">Γενικό Σχέδιο Αξιοποίησης (Master Plan) για το Μεταλλείο Αμιάντου (Κείμενο και Χάρτες)</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/fd32392513bee315c2257c660022bfe4?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds059C3E654AC697BDC2257D96003590BD">
+<dcat:title  xml:lang="el">Διαχειριστικό Σχέδιο για τα Δάση Λεμεσού, Αγίου Μάμα και Ακαπνούς</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/02b25cee37256860c2257ab10021873b?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds7E32C8D7A01050E9C2257D9A0025542E">
+<dcat:title  xml:lang="el">Βοτανικός Κήπος Τροόδους "Α. Γ. Λεβέντης"  - Φυτά σε Ανθοφορία ή με Ενδιαφέρουσα Καρποφορία κατά μήνα</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Βοτανικός Κήπος Τροόδους "Α. Γ. Λεβέντης"</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:troodosbg@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://troodos-botanical-garden.eu/Photos.html"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds01F407D703E6641BC2257D9A0024F8A3">
+<dcat:title  xml:lang="el">Βοτανικός Κήπος Τροόδους "Α. Γ. Λεβέντης" - Κατάλογοι Φυτών σε Ανθοφορία ή με Ενδιαφέρουσα Καρποφορία κατά μήνα</dcat:title>
+<dcat:description>Επιστημονική ονομασία, οικογένεια, κοινή ονομασία ειδών φυτών.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Βοτανικός Κήπος Τροόδους "Α. Γ. Λεβέντης"</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:troodosbg@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://troodos-botanical-garden.eu/FloraCyprus.html"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsA60B8ECEAF18529DC2257D96003670A7">
+<dcat:title  xml:lang="el">Διαχειριστικά Σχέδια για το Δάσος Σταυροβουνιού και το Εθνικό Δασικό Πάρκο Ριζοελιάς και Γειτονικών Δασυλλίων</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/caa9c428f48acf25c2257921003aba66?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds65B66C76257206BCC2257D9A0025BE3C">
+<dcat:title  xml:lang="el">Έντυπα Αιτήσεων Τμήματος Δασών</dcat:title>
+<dcat:description>1. Αίτηση για Χορήγηση Άδειας Εμπορίας Καυσόξυλων
+2. Αίτηση για Χορήγηση Άδειας Εμπορίας Ξυλείας και Προϊόντων Ξυλείας
+3. Αίτηση για παραχώρηση άδειας υλοτομίας, εκρίζωσης, αποκοπής κορυφής, κλαδέματος, διάνοιξης αυλακιού που επηρεάζει δασικά δέντα ή/και θάμνους έξω από τα κρατικά δάση
+4. Αίτηση για Άδεια Εγκατάστασης Πριονιστηρίου ή άλλης Βιομηχανίας Εκμετάλλευσης Στρογγύλης Ξυλείας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLforms_gr/DMLforms_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds2F8564F6A18B3648C2257D96003801D0">
+<dcat:title  xml:lang="el">Σχέδιο Δράσης της Ευρωπαϊκής Ένωσης για την Καταπολέμηση της Παράνομης Υλοτομίας και Εμπορίας Ξυλείας και Προϊόντων Ξυλείας</dcat:title>
+<dcat:description>Νόμος που προνοεί για τον έλεγχο της εμπορίας ξυλείας και Προϊόντων Ξυλείας
+Κανονισμοί
+Σημειώματα
+Έντυπα Αιτήσεων
+Επιθεωρητές ελέγχου εμπορίου ξυλειάς και προϊόντων ξυλείας
+Παράνομη Υλοτομία
+Αδειούχοι Έμποροι καυσοξύλων</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Κλάδος Υλοχρηστικής</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mnicolaides@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/6e4f2b14dc23329cc2257ad70030aba1?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds661D2D7D49CC9317C2257D9600302440">
+<dcat:title  xml:lang="el">Κατάλογος Εθνικών Δασικών Πάρκων</dcat:title>
+<dcat:description>Δάση τα οποία διατηρούν σε σημαντικό βαθμό την φυσικότητα τους και περιέχουν σημαντικά στοιχεία βιοποικιλότητας ή γεννετικούς πόρους  ή τοπία ή γεωμορφώματα, και τυγχάνουν διαχείρισης για σκοπούς προστασίας και διατήρισης των οικολογικών διαδικασιών και των αξιόλογων φυσικών στοιχείων που περιέχουν και παρέχουν τη δυνατότητα για πνευματικές, επιστημονικές, εκπαιδευτικές ή αναψυχικές δραστηριότητες οι οποίες είναι περιβαλλοντικά και πολιτισμικά συμβατές.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Μηνάς Παπαδόπουλος</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mpapadopoulos@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/661D2D7D49CC9317C2257D9600302440/$file/"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0DF38C4544FF809CC2257D97002A66C5">
+<dcat:title  xml:lang="el">Διατήρηση της Βιοποικιλότητας στις εργασίες Αποκατάστασης και στη Διαχείριση του Μεταλλείου Αμιάντου, στο Εθνικό Δασικό Πάρκο Τροόδους</dcat:title>
+<dcat:description>Το έργο συγχρηματοδοτείται από τον Χρηματοδοτικό Μηχανισμό του Ευρωπαϊκού Οικονομικού Χώρου (Ισλανδία, Λίχνενσταϊν, Νορβηγία) – EEA Grants (Iceland, Liechtenstein, Norway) 2009-2014, σε ποσοστό 85% και την Κυπριακή Δημοκρατία σε ποσοστό 15%. Υλοποιείται από το Τμήμα Δασών του Υπουργείου Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος και έχει προϋπολογισμό €1.350.000. Η διάρκειά του είναι 36 μήνες – Ιανουάριος 2013 – Δεκέμβριος 2016.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://amiandos.eu/el/"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds84430AFF60AFB783C2257D96003B3352">
+<dcat:title  xml:lang="el">Ενημερωτικά φυλλάδια / Διαφωτιστικό Υλικό (έντυπα, αφίσες) Τμήματος Δασών</dcat:title>
+<dcat:description>Το Τμήμα Δασών διαθέτει ένα μεγάλο αριθμό ενημερωτικών εντύπων, που καλύπτουν ένα ευρύ φάσμα της σύγχρονης δασοπονίας. Εκτός από αυτά που παρατίθενται πιο κάτω αξίζει να αναφερθεί ότι κάθε χρόνο εκδίδεται και νέο υλικό με νέα θέματα εξαιρετικού ενδιαφέροντος τόσο σε έντυπα όσο και σε αφίσες.
+
+Το υλικό αυτό διατίθεται από τα Κεντρικά Γραφεία του Τμήματος Δασών, καθώς και από τους κατά τόπους δασικούς σταθμούς. Επίσης, μπορείτε να "κατεβάσετε" ορισμένα από αυτά από την Επίσημη Ιστοσελίδα του Τμήματος Δασών. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Κλάδος Διαφώτισης</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:publicity@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLpublications_gr/DMLpublications_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB2FC25EE7A27CC33C2257D97002ACA3A">
+<dcat:title  xml:lang="el">Παροχή Εκπαίδευσης και Πιστοποίησης στην Ορθή και Ασφαλή Χρήση Αλυσοπρίονων</dcat:title>
+<dcat:description>Το αλυσοπρίονο χρησιμοποιείται σε ευρεία κλίμακα στα δάση (από ιδιώτες υλοτόμους, εργάτες του Τμήματος Δασών σε δασοπονικές εργασίες και δασοπυροσβέστες κατά την κατάσβεση δασικών πυρκαγιών), όσο και σε άλλους δημόσιους και ιδιωτικούς χώρους (από γεωργούς, εργάτες Δήμων και Κοινοτήτων, εργάτες διαφόρων Αρχών, Τμημάτων και Υπηρεσιών όπως της ΑΗΚ, της CYTA, του Τμήματος Δημοσίων Έργων, της Πυροσβεστικής Υπηρεσίας κ.α.). Θεωρείται από τα πιο επικίνδυνα μηχανοκίνητα εργαλεία χειρός και ευθύνεται για πάρα πολλούς τραυματισμούς/ακρωτηριασμούς. 
+
+Το Τμήμα Δασών, αναγνωρίζοντας την επικινδυνότητα της εργασίας που γίνεται με τη χρήση αλυσοπρίονων και για την αποφυγή ατυχημάτων, δημιούργησε ομάδα εκπαίδευσης στο Δασικό Κολλέγιο Κύπρου, η οποία προσφέρει πιστοποιημένο πρόγραμμα εκπαίδευσης, διάρκειας 40 εκπαιδευτικών ωρών, για την Ορθή και Ασφαλή Χρήση Αλυσοπρίονων, έναντι κόστους €350.</dcat:description>
+<dcat:theme>Εκπαίδευση</dcat:theme>
+<dcat:keyword>Εκπαίδευση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Διευθυντής Δασικού Κολεγίου Κύπου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:forcollege@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/a5e0199a400ea5d8c2257060003da28b/ba30b625fe6b52c5c22579c30030983b?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0DBE6A0837FAD36CC2257D9600320803">
+<dcat:title  xml:lang="el">Κατασκηνωτικοί Χώροι - Γεωγραφική θέση</dcat:title>
+<dcat:description>Στα κρατικά δάση  λειτουργούν 5 κατασκηνωτικοί χώροι.Το Τμήμα Δασών διαχειρίζεται  3 από αυτούς ενώ οι υπόλοιποι 2 βρίσκονται εντός κρατικής δασικής γης και διαχειρίζονται από άλλους φορείς. Διαθέτουν διευκολύνσεις όπως θέσεις κατασκήνωσης, χώρους στάθμευσης και υγιεινής, πόσιμο νερό, τραπέζια, ψησταριές και παιδικές χαρές ενώ σε κάποιους προσφέρονται επίσης ηλεκτρικό ρεύμα, λουτρά και μαγειρεία. Η χρήση τους προϋποθέτει την καταβολή μικρού τέλους. Το τέλος χρήσης για τους κατασκηνωτικούς χώρους του Τμήματος Δασών καθορίζεται στον επίσημο τιμοκατάλογο του Τμήματος ο οποίος βρίσκεται και στην ιστοσελίδα του Τμήματος</dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>ZIP</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0DBE6A0837FAD36CC2257D9600320803/$file/CampingSites.zip"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds61A70328EAFCE4DFC2257D9A002317AE">
+<dcat:title  xml:lang="el">Κατάλογος σαυρών, φιδιών, χελώνων και βατράχων που υπάρχουν στην Κύπρο</dcat:title>
+<dcat:description>Επιστημονικό όνομα σαυρών, φιδιών, χελώνων και βατράχων που υπάρχουν στην Κύπρο </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Χάρης Νικολάου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:nicolaouharis@cytanet.com.cy   "/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/61A70328EAFCE4DFC2257D9A002317AE/$file/ReptilesAndAmphibians.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsD92235CC108078AAC2257D96002EFB5F">
+<dcat:title  xml:lang="el">Συστάδες Δέντρων Μνημείων της Φύσης εντός των Κρατικών Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/D92235CC108078AAC2257D96002EFB5F/$file/ClustersTreeMonumentsWithinStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8A33C387E05193B5C2257D9600315A3F">
+<dcat:title  xml:lang="el">Περιοχές Προστασίας της Φύσης ή Περιοχές Φυσικών Αποθεμάτων </dcat:title>
+<dcat:description>Φυσικά Αποθέματα που περιούχουν ένα ή περισσότερα αντιπροσωπευτικά ή σημαντικά δασικά οικοσυστήματα, φυτοκοινωνίες, ζωοκοινωνίες ή άλλα φυσικά στοιχεία και τυγχάνουν διαχείρισης για σκοπούς επιστημονικής έρευνας, παρακολούθησης και ως σημείο επιστημονικής αναφορά και η ανθρώπινη παρουσία και δραστηριότητα περιορίζεται στο ελάχιστο.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Μηνάς Παπαδόπουλους</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mpapadopoulos@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/8A33C387E05193B5C2257D9600315A3F/$file/NatureReserves.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsF319361840085F75C2257D96002ED69F">
+<dcat:title  xml:lang="el">Συστάδες Δέντρων Μνημείων της Φύσης εκτός των Κρατικών Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/F319361840085F75C2257D96002ED69F/$file/ClustersTreeMonumentsOutsideStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds80B67C3B2613DECDC2257D96002D47A3">
+<dcat:title  xml:lang="el">Εκδρομικοί Χώροι - Γεωγραφική θέση</dcat:title>
+<dcat:description>Εκδρομικοί χώροι εντός των Κρατικών Δασών που δημιουργούνται σε θέσεις που παρέχουν εύκολη πρόσβαση, σκιά, νερό, κατάλληλη τοπογραφία και συνήθως με ελκυστικό τοπίο. Οι διευκολύνσεις που παρέχονται είναι: τραπέζια, ψησταριές, νερό, χώροι στάθμευσης, παιδικές χαρές και χώροι υγιεινής. Για τη χρήση τους δεν απαιτείται η καταβολή τέλους εισόδου</dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>ZIP</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/80B67C3B2613DECDC2257D96002D47A3/$file/PicnicSites.zip"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB329F529ED3C3333C2257D9500339231">
+<dcat:title  xml:lang="el">Απόφοιτοι Μικρής Διάρκειας Κύκλου Σπουδών Δασικού Κολεγίου Κύπρου</dcat:title>
+<dcat:description>Κατάσταση αποφοίτων Δασικού Κολεγίου Κύπρου - Μικρής Διάρκειας Σπουδών (Χώρα προέλευσης και αριθμός αποφοίτων από 1991-2014)</dcat:description>
+<dcat:theme>Εκπαίδευση</dcat:theme>
+<dcat:keyword>Εκπαίδευση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Διευθυντής Δασικού Κολεγίου Κύπρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:forcollege@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/B329F529ED3C3333C2257D9500339231/$file/CyprusForestryCollege-ShortTraining.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds61DE0D71A363539FC2257D96002F366F">
+<dcat:title  xml:lang="el">Μεμονωμένα Δέντρα Μνημεία της Φύσης εντός των Κρατικών Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/61DE0D71A363539FC2257D96002F366F/$file/TreeMonumentsWithinStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0211065006F8A888C2257D9600306BCE">
+<dcat:title  xml:lang="el">Κατάλογος Εκδρομικών Χώρων Τμήματος Δασών εντός των Κρατικών Δασών</dcat:title>
+<dcat:description>Εκδρομικοί χώροι εντός των Κρατικών Δασών που δημιουργούνται σε θέσεις που παρέχουν εύκολη πρόσβαση, σκιά, νερό, κατάλληλη τοπογραφία και συνήθως με ελκυστικό τοπίο. Οι διευκολύνσεις που παρέχονται είναι: τραπέζια, ψησταριές, νερό, χώροι στάθμευσης, παιδικές χαρές και χώροι υγιεινής. Για τη χρήση τους δεν απαιτείται η καταβολή τέλους εισόδου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0211065006F8A888C2257D9600306BCE/$file/PicnicSitesWithinStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds035002CC134079E8C2257D96002F992F">
+<dcat:title  xml:lang="el">Μεμονωμένα Δέντρα Μνημεία της Φύσης εκτός των Κρατικών Δασών </dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/035002CC134079E8C2257D96002F992F/$file/TreeMonumentsOutsideStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds647A3341B1E89501C2257D960030B6C2">
+<dcat:title  xml:lang="el">Κατασκηνωτκοί Χώροι εντός κρατικών δασών / εντός κρατικής δασικής γης</dcat:title>
+<dcat:description>Στα κρατικά δάση  λειτουργούν 5 κατασκηνωτικοί χώροι.Το Τμήμα Δασών διαχειρίζεται  3 από αυτούς ενώ οι υπόλοιποι 2 βρίσκονται εντός κρατικής δασικής γης και διαχειρίζονται από άλλους φορείς. Διαθέτουν διευκολύνσεις όπως θέσεις κατασκήνωσης, χώρους στάθμευσης και υγιεινής, πόσιμο νερό, τραπέζια, ψησταριές και παιδικές χαρές ενώ σε κάποιους προσφέρονται επίσης ηλεκτρικό ρεύμα, λουτρά και μαγειρεία. Η χρήση τους προϋποθέτει την καταβολή μικρού τέλους. Το τέλος χρήσης για τους κατασκηνωτικούς χώρους του Τμήματος Δασών καθορίζεται στον επίσημο τιμοκατάλογο του Τμήματος ο οποίος βρίσκεται και στην ιστοσελίδα του Τμήματος</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/647A3341B1E89501C2257D960030B6C2/$file/CampingSitesWithinStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE25D3AD3B2746877C2257D9500332E75">
+<dcat:title  xml:lang="el">Απόφοιτοι Ανώτερου Εξαμηνιαίου Κύκλου Σπουδών Δασικού Κολεγίου Κύπρου</dcat:title>
+<dcat:description>Κατάσταση αποφοίτων Δασικού Κολεγίου Κύπρου - Ανώτερος Εξαμηνιαίος Κύκλος Σπουδών (Χώρα προέλευσης και αριθμός αποφοίτων από 1977-2014)</dcat:description>
+<dcat:theme>Εκπαίδευση</dcat:theme>
+<dcat:keyword>Εκπαίδευση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Διευθυντής Δασικού Κολεγίου Κύπρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:forcollege@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/E25D3AD3B2746877C2257D9500332E75/$file/CyprusForestryCollege-6-month.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsD133BD0FA8DFC06CC2257D96002FBF2F">
+<dcat:title  xml:lang="el">Κατάλογος Μονοπατιών Μελέτης της Φύσης εντός των Κρατικών Δασών</dcat:title>
+<dcat:description>Τα Μονοπάτια Μελέτης της Φύσης αποτελούν μια από τις πιο σημαντικές υποδομές υπαίθριας και δασικής αναψυχής στην Κύπρο. Το Τμήμα Δασών μέχρι σήμερα (2014) έχει αναπτύξει ένα ευρύ δίκτυο Μονοπατιών μέσα στα κρατικά δάση (που απαρτίζεται από 74 μονοπάτια συνολικού μήκους 353,9 km), τα οποία προσφέρουν ευκαιρίες άμεσης επαφής και γνωριμίας με την κυπριακή φύση, εξυπηρετώντας ταυτόχρονα την περιβαλλοντική εκπαίδευση και ενημέρωση και τη φυσική άσκηση. Παράλληλα το Τμήμα Δασών , ως αρμόδια αρχή για το σχεδιασμό και προώθηση της δημιουργίας Μονοπατιών, συνεργάζεται με τον Κυπριακό Οργανισμό Τουρισμού, τις Τοπικές Αρχές και τις Επαρχιακές Διοικήσεις για τη δημιουργία Μονοπατιών και έξω από τα κρατικά δάση.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τάκης Παπαχριστοφόρου, Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy, anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/D133BD0FA8DFC06CC2257D96002FBF2F/$file/NatureTrailsWithinStateForests.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds1ECED93CE13DC060C2257D950030CD29">
+<dcat:title  xml:lang="el">Απόφοιτοι Τριετούς Κύκλου Σπουδών Δασικού Κολεγίου Κύπρου</dcat:title>
+<dcat:description>Κατάσταση αποφοίτων Δασικού Κολεγίου Κύπρου - Τριετής Κύκλος Σπουδών (Χώρα προέλευσης και αριθμός αποφοίτων από 1952-2014)</dcat:description>
+<dcat:theme>Εκπαίδευση</dcat:theme>
+<dcat:keyword>Εκπαίδευση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Διευθυντής Δασικού Κολεγίου Κύπρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:forcollege@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/1ECED93CE13DC060C2257D950030CD29/$file/CyprusForestryCollege-3-year.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9B71AD4DF9D5182BC2257D96002DF1D7">
+<dcat:title  xml:lang="el">Μονοπάτια Μελέτης της Φύσης - Αφετερίες - Γεωγραφική θέση</dcat:title>
+<dcat:description>Τα Μονοπάτια Μελέτης της Φύσης αποτελούν μια από τις πιο σημαντικές υποδομές υπαίθριας και δασικής αναψυχής στην Κύπρο. Το Τμήμα Δασών μέχρι σήμερα (2014) έχει αναπτύξει ένα ευρύ δίκτυο Μονοπατιών μέσα στα κρατικά δάση (που απαρτίζεται από 74 μονοπάτια συνολικού μήκους 353,9 km), τα οποία προσφέρουν ευκαιρίες άμεσης επαφής και γνωριμίας με την κυπριακή φύση, εξυπηρετώντας ταυτόχρονα την περιβαλλοντική εκπαίδευση και ενημέρωση και τη φυσική άσκηση. Παράλληλα το Τμήμα Δασών , ως αρμόδια αρχή για το σχεδιασμό και προώθηση της δημιουργίας Μονοπατιών, συνεργάζεται με τον Κυπριακό Οργανισμό Τουρισμού, τις Τοπικές Αρχές και τις Επαρχιακές Διοικήσεις για τη δημιουργία Μονοπατιών και έξω από τα κρατικά δάση.</dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου, Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy, anearchou@fd.moa.gov.c"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>ZIP</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/9B71AD4DF9D5182BC2257D96002DF1D7/$file/NatureTrailsStartingPoints.zip"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsFD44850F19E96E45C2257D9600207AB7">
+<dcat:title  xml:lang="el">Ενδημικά φυτά της Κύπρου</dcat:title>
+<dcat:description>Κατάλογος φυτών που απαντούν μόνο στην Κύπρο</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Χ .Σ. Χριστοδούλου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:floracy@primehome.com"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLS</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/FD44850F19E96E45C2257D9600207AB7/$file/CyprusEndemicPlants.xls"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds64FAC10FF8FD5287C2257D950037B2D4">
+<dcat:title  xml:lang="el">Στατιστικά στοιχεία δασικών πυρκαγιών στην Κύπρο</dcat:title>
+<dcat:description>Στατιστικά στοιχεία δασικών πυρκαγιών σε παγκύπρια κλίμακα.  Πυρκαγιές που έκαψαν δασική βλάστηση.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Κώστας Παπαγεωργίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:protection@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>XLSX</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/64FAC10FF8FD5287C2257D950037B2D4/$file/ForestFiresInCyprus-2010-2013.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds763FE2D2A671D129C2257D9600349280">
+<dcat:title  xml:lang="el">Χάρτης Κρατικών Δασών</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Κλάδος Δασικής Χωρομετρίας</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:survey@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/763FE2D2A671D129C2257D9600349280/$file/State_Forests_A4.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC8F8875E1F37F796C2257D96002D7D0C">
+<dcat:title  xml:lang="el">Ευρωπαϊκό Μονοπάτι Ε4 - Διαδρομή - Γεωγραφική θέση</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>ZIP</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/C8F8875E1F37F796C2257D96002D7D0C/$file/E4Trail.zip"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsA6CFA79D6F733853C2257D96002E19FA">
+<dcat:title  xml:lang="el">Μονοπάτια Μελέτης της Φύσης - Διαδρομές - Γεωγραφική θέση</dcat:title>
+<dcat:description>Τα Μονοπάτια Μελέτης της Φύσης αποτελούν μια από τις πιο σημαντικές υποδομές υπαίθριας και δασικής αναψυχής στην Κύπρο. Το Τμήμα Δασών μέχρι σήμερα (2014) έχει αναπτύξει ένα ευρύ δίκτυο Μονοπατιών μέσα στα κρατικά δάση (που απαρτίζεται από 74 μονοπάτια συνολικού μήκους 353,9 km), τα οποία προσφέρουν ευκαιρίες άμεσης επαφής και γνωριμίας με την κυπριακή φύση, εξυπηρετώντας ταυτόχρονα την περιβαλλοντική εκπαίδευση και ενημέρωση και τη φυσική άσκηση. Παράλληλα το Τμήμα Δασών , ως αρμόδια αρχή για το σχεδιασμό και προώθηση της δημιουργίας Μονοπατιών, συνεργάζεται με τον Κυπριακό Οργανισμό Τουρισμού, τις Τοπικές Αρχές και τις Επαρχιακές Διοικήσεις για τη δημιουργία Μονοπατιών και έξω από τα κρατικά δάση.</dcat:description>
+<dcat:theme>Γεωγραφικά Δεδομένα</dcat:theme>
+<dcat:keyword>Γεωγραφικά Δεδομένα</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Τάκης Παπαχριστοφόρου, Ανδρέας Νεάρχου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:tpapachristoforou@fd.moa.gov.cy, anearchou@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>ZIP</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/A6CFA79D6F733853C2257D96002E19FA/$file/NatureTrailsRoutes.zip"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds6FFC756EA76F69D3C2257D9B001CFA2B">
+<dcat:title  xml:lang="el">Eθνικό Δάσος Αθαλάσσας</dcat:title>
+<dcat:description>Το Δάσος Αθαλάσσας έχει συνολική έκταση 840 εκταρίων και κηρύχθηκε σε Εθνικό Δασικό Πάρκο το 1990, με βάση τις πρόνοιες της Δασικής Νομοθεσίας. Βρίσκεται στα νοτιοανατολικά της Λευκωσίας και περιβάλλεται στα βόρεια από την Αγλαντί,ιά, στα δυτικά από το Στρόβολο, στα νοτιοδυτικά από τα Λατσιά και στα νοτιοανατολικά από το Γέρι.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.athalassapark.eu/cgibin/hweb?-A=44and-V=thepark"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds99F675B35C98A271C2257D9B001D3D97">
+<dcat:title  xml:lang="el">Κέντρο Περιβαλλοντικής Ενημέρωσης και Εκπαίδευσης Αθαλάσσας</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Παναγιώτης Πέτρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:info@athalassapark.eu"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.athalassapark.eu"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAEAF4C544421F92CC2257D9B001C5F07">
+<dcat:title  xml:lang="el">Εθνικό Δασικό Πάρκο Ριζοελιάς - Βελτίωση της κατάστασης διατήρησης των οικοτόπων προτεραιότητας *1520 και *5220</dcat:title>
+<dcat:description>Το έργο με τίτλο "Βελτίωση της κατάστασης διατήρησης των οικοτόπων προτεραιότητας *1520 και *5220 στο Εθνικό Δασικό Πάρκο Ριζοελιάς" (LIFE12 NAT/CY/000758) υλοποιείται στο πλαίσιο του προγράμματος LIFE+ της Ευρωπαϊκής Ένωσης (ΕΕ). Ο συνολικός προϋπολογισμός του έργου ανέρχεται  στα 766.746 ευρώ, εκ των οποίων τα 574.703 ευρώ (75% του συνολικού επιλέξιμου προϋπολογισμού) χρηματοδοτούνται από την ΕΕ. Το έργο στοχεύει στη μακροπρόθεσμη διατήρηση των δύο τύπων οικοτόπων προτεραιότητας, *5220 - Θαμνώνες με Ziziphus και *1520 - Γυψούχες στέππες (Gypsophiletalia), στην Κύπρο, μέσα από την ποσοτικοποίηση και την ανάσχεση φυσικών και ανθρωπογενών πιέσεων ή και απειλών που οδηγούν στη μακροπρόθεσμη υποβάθμισή τους.  Το έργο ξεκίνησε την 1η Σεπτεμβρίου 2013 και θα ολοκληρωθεί την 28η Φεβρουαρίου 2017.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Διευθυντής Τμήματος Δασών</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.life-rizoelia.eu/"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsFDF54DFCCC0ACCCEC2257D9B001EB863">
+<dcat:title  xml:lang="el">Δασικό Κολέγιο Κύπρου</dcat:title>
+<dcat:description>Το Δασικό Κολέγιο υπάγεται διοικητικά στο Τμήμα Δασών του Υπουργείου Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος και βρίσκεται στο χωριό Πρόδρομος της Επαρχίας Λεμεσού. Είναι ίδρυμα Τριτοβάθμιας Εκπαίδευσης και άρχισε τη λειτουργία του το 1951 με κύριο σκοπό την εκπαίδευση στον τομέα της Δασοπονίας, προσωπικού τόσο του Τμήματος Δασών της Κύπρου, όσο και των δασικών υπηρεσιών χωρών του εξωτερικού.</dcat:description>
+<dcat:theme>Εκπαίδευση</dcat:theme>
+<dcat:keyword>Εκπαίδευση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1205"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1205">
+		<vcard:fn>Τμήμα Δασών - Διευθυντής Δασικού Κολεγίου Κύπορυ</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:forcollege@fd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1205">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/fd/fd.nsf/DMLforestry_gr/DMLforestry_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1206">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1206">
+      <foaf:name>1206 - ΤΜΗΜΑ ΑΝΑΠΤΥΞΕΩΣ ΥΔΑΤΩΝ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB46D3C1EE9F01066C2257D90002DAC98">
+<dcat:title  xml:lang="el">Εξοικονόμηση Νερού</dcat:title>
+<dcat:description>ΑΠΛΟΙ ΤΡΟΠΟΙ ΕΞΟΙΚΟΝΟΜΗΣΗΣ ΠΟΣΙΜΟΥ ΝΕΡΟΥ</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/measures_gr/measures_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9E92F0180CF4A4DCC2257D8700231852">
+<dcat:title  xml:lang="el">Βιντεοσκόπηση από υπερχειλίσεις φραγμάτων</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/multimedia_gr/multimedia_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds3ACD6992A80E5EDCC2257D850043B9B4">
+<dcat:title  xml:lang="el">Πληρότητα Φραγμάτων</dcat:title>
+<dcat:description>Καθημερινή ενημέρωση για την πληρότητα των Φραγμάτων</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Ρουσής Φαίδρος</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:prousis@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/WDD/WDD.nsf/reservoir_gr/reservoir_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8297C65CBFDB44EAC2257D86003B848F">
+<dcat:title  xml:lang="el">Χάρτης με τα Φράγματα της Κύπρου</dcat:title>
+<dcat:description>Χάρτης που περιλαμβάνει όλα τα φράγματα της Κύπρου και δίδει την πρόσβαση σε φωτογραφικό υλικό</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/8297C65CBFDB44EAC2257D86003B848F/$file/Cypdams_revise_2013.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAA5B4DD88BF25BA8C2257D8700223D54">
+<dcat:title  xml:lang="el">Φωτογραφικό υλικό από κατασκευές υδατικών έργων</dcat:title>
+<dcat:description>Φωτογραφικό υλικό από κατασκευές φραγμάτων, μονάδων αφαλάτωσης νερού, αποχετευτικών συστημάτων, υδρευτικών έργων κ.λπ.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/photos_gr/photos_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0D66153073BC908DC2257D860048DD35">
+<dcat:title  xml:lang="el">Ετήσιες Έκθέσεις του Τμήματος Αναπτύξεως Υδάτων</dcat:title>
+<dcat:description>Περιγράφει τις δραστηριότητες του Τμήματος Αναπτύξεως Υδάτων</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Πανίκος Χατζηπέτρου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:phadjipetrou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/annualrpt_gr/annualrpt_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE4D6A46F8F875777C2257D90002E5BA7">
+<dcat:title  xml:lang="el">Μεγάλα Υδατικά Έργα</dcat:title>
+<dcat:description>Αρδευτικό 'Εργο Πάφου 
+Αρδευτικό 'Εργο Χρυσοχούς Αρδευτικό 'Εργο Χρυσοχούς 
+Μονάδες Αφαλάτωσης Μονάδες Αφαλάτωσης 
+Σχέδιο Βασιλικού-Πεντάσχοινου Σχέδιο Βασιλικού-Πεντάσχοινου 
+Σχέδιο Ενιαίας Αγροτικής Ανάπτυξης Πιτσιλιάς Σχέδιο Ενιαίας Αγροτικής Ανάπτυξης Πιτσιλιάς 
+Σχέδιο Νότιου Αγωγού Σχέδιο Νότιου Αγωγού </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/water_gr/water_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8F7C9692747C62D6C2257D86004A6CD9">
+<dcat:title  xml:lang="el">Οδηγία Πλαίσιο 2000/60/ΕΚ περί Υδάτων</dcat:title>
+<dcat:description>Η Οδηγία Πλαίσιο περί Υδάτων 2000/60/ΕΚ  (ΟΠΥ) αναμορφώνει την υφιστάμενη Ευρωπαϊκή Νομοθεσία και θέτει το νομοθετικό πλαίσιο για την ορθή διαχείριση και προστασία των υδατικών πόρων. Ο βασικός στόχος της Οδηγίας είναι η αποτροπή της περαιτέρω υποβάθμισης όλων των υδάτων και η επίτευξη μιας «καλής κατάστασης» μέχρι το 2015. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Παναγιώτα Χατζηγεωργίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:phadjigeorgiou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/guide_gr/guide_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE0C3C17FFA38C712C2257D86004AFD36">
+<dcat:title  xml:lang="el">Οδηγία 2007/60/ΕΚ για τις Πλημμύρες</dcat:title>
+<dcat:description>Η Οδηγία 2007/60/ΕΚ αφορά τη θέσπιση πλαισίου για την αξιολόγηση και τη διαχείριση των κινδύνων πλημμύρας, με στόχο τη μείωση των αρνητικών συνεπειών στην ανθρώπινη υγεία, το περιβάλλον, την πολιτιστική κληρονομιά και τις οικονομικές δραστηριότητες που συνδέονται με τις πλημμύρες. Η Οδηγία 2007/60/ΕΚ έχει εναρμονιστεί με την Κυπριακή Νομοθεσία με τον περί Αξιολόγησης, Διαχείρισης και Αντιμετώπισης των Κινδύνων Πλημμύρας Νόμο Ν 70(Ι)/2010</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Μαριλένα Παναρέτου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mpanaretou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/all/7CDA71A65CFF5DCAC22579E500216E62?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds643A81EFB23BB5F9C2257D90002F62D7">
+<dcat:title  xml:lang="el">Πληροφορίες σχετικές με το Περιβάλλον που αφορούν το Τμήμα Αναπτύξεως Υδάτων</dcat:title>
+<dcat:description>Το Τμήμα Αναπτύξεως Υδάτων με βάση την Απόφαση του Υπουργικού Συμβουλίου με αρ. 65.005 και ηυμερομηνίας 7/2/2007 παρέχει σε οποιοδήποτε αιτητή πληροφορίες, που είναι σχετικές με το περιβάλλον.
+
+ΝΟΜΟΣ ΠΟΥ ΠΡΟΝΟΕΙ ΓΙΑ ΤΗΝ ΕΛΕΥΘΕΡΗ ΠΡΟΣΒΑΣΗ ΤΟΥ ΚΟΙΝΟΥ ΣΕ ΠΛΗΡΟΦΟΡΙΕΣ ΠΟΥ ΣΧΕΤΙΖΟΝΤΑΙ ΜΕ ΘΕΜΑΤΑ ΠΕΡΙΒΑΛΛΟΝΤΟΣ N.119(i)/2004 ΜΕ ΒΑΣΗ ΤΗΝ ΕΥΡΩΠΑΙΚΗ ΟΔΗΓΙΑ 2003/4/ΕΚ
+
+ΚΑΤΑΛΟΓΟΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΜΕΛΕΤΩΝ
+
+ΑΙΤΗΣΗ ΓΙΑ ΠΑΡΟΧΗ ΠΛΗΡΟΦΟΡΙΩΝ ΣΧΕΤΙΚΕΣ ΜΕ ΤΟ ΠΕΡΙΒΑΛΛΟΝ
+
+ΗΛΕΚΤΡΟΝΙΚΗ ΑΙΤΗΣΗ</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/dmlenv_info_gr/dmlenv_info_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8266525C35DC3766C2257D85004724A6">
+<dcat:title  xml:lang="el">Αποτελέσματα Χημικών και Μικροβιολογικών Αναλύσεων από τον Έλεγχο της Ποιότητας του Ανακυκλωμένου Νερού</dcat:title>
+<dcat:description>Στοιχεία από τον έλεγχο της ποιότητας του ανακυκλωμένου νερού - Αστικοί Σταθμοί Επεξεργασίας Λυμάτων 
+Στοιχεία από τον έλεγχο της ποιότητας του ανακυκλωμένου νερού - Σταθμοί Επεξεργασίας Λυμάτων Κοινοτήτων με ισοδύναμο πληθυσμό κάτω των 2000 
+Στοιχεία από τον έλεγχο της ποιότητας του ανακυκλωμένου νερού - Σταθμοί Επεξεργασίας Λυμάτων Κοινοτήτων με ισοδύναμο πληθυσμό άνω των 2000 
+Στοιχεία από τον έλεγχο της ποιότητας του ανακυκλωμένου νερού - Σταθμοί Επεξεργασίας Λυμάτων Στρατοπέδων 
+Στοιχεία από τον έλεγχο της ποιότητας του ανακυκλωμένου νερού - Σταθμοί Επεξεργασίας Λυμάτων Νοσοκομείων
+ </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Λία Γεωργίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:wwrd@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/wdd.nsf/All/4C05A9AEDEB0C64CC2257A70004D6DE2?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB907B4A859B94A0FC2257D86003C44DE">
+<dcat:title  xml:lang="el">Κατάσταση των Υπόγειων Υδατικών Σωμάτων</dcat:title>
+<dcat:description>Οι περιοχές που έχουν χρώμα κόκκινο είναι τα τμήματα του υδροφορέα όπου η στάθμη του νερού είναι κάτω από την μέση στάθμη της θάλασσας. Όσο πιο βαθύ το κόκκινο τόσο η στάθμη είναι πιο κάτω από τη στάθμη της θάλασσας. Σε αυτές τις περιοχές, θαλασσινό νερό ρέει μέσα στον υδροφορέα. Στις περιοχές κοντά στην αλυκή η στάθμη του νερού φτάνει τα 2 μέτρα κάτω από τη θάλασσα. Η μπλε γραμμή οριοθετεί την περιοχή που έχει επηρεαστεί από τη διείσδυση του θαλάσσιου νερού. Με μπλε χρώμα παρουσιάζονται οι περιοχές με στάθμες πάνω από τη θάλασσα. Τα κίτρινα σημεία, είναι τα σημεία από όπου έγιναν οι μετρήσεις στάθμης νερού (πάνω από τη μέση στάθμη της θάλασσας). Οι κίτρινοι αριθμοί πάνω από τα σημεία, είναι οι μετρήσεις (πάνω από τη μέση στάθμη της θάλασσας).</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Χαράλαμπος Δημητρίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:cdemetriou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/B907B4A859B94A0FC2257D86003C44DE/$file/"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB5ADF9FD83DB3264C2257D95001F9FB3">
+<dcat:title  xml:lang="el">Έντυπα του Τμήματος Αναπτύξεως Υδάτων που αφορούν το νερό</dcat:title>
+<dcat:description>Αρδευτικό Έργο Πάφου  
+Αρδευτικό Έργο Χρυσοχούς  
+Διυλιστήρια Νερού και Μονάδες Αφαλάτωσης 
+Ενιαίος Κώδικα καλής πρακτικής για τη διαχειριση και λειτουργία των δικτύων Υδρευσης  
+Έργο Νότιου Αγωγού  
+Η Ανάπτυξη των Υδάτινων Πόρων της Κύπρου Ιστορική Αναδρομή 
+Οδηγός για τη δημιουργία κήπων, με μικρές απαιτήσεις σε νερό 
+ΟΠΥ - Σχέδιο διαχείρισης λεκάνης απορροής ποταμού Κύπρου  
+Πενηνταετηρίδα 1939-1989 του Τμήματος Αναπτύξεως Υδάτων  
+Σταθμός Επεξεργασίας Οικιακών Λυμάτων και Βιομηχανικών Αποβλήτων στη Βαθιά Γωνιά  
+Σχέδιο Βασιλικού Πεντάσχοινου  
+Υδατοφράκτης Καλοπαναγιώτη  
+Φράγματα της Κύπρου  
+Φράγματα της Κύπρου - Επανέκδοση  
+Φράγματα της Κύπρου 1962-1963 
+Φράγματα της Κύπρου 1964-1965  
+Χάρτης Δικαιωμάτων του Πολίτη 
+Χρήση και Εξοικονόμηση Νερού στήν Κύπρο  </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/booklets_gr/booklets_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds02FC7B92254D5BA6C2257D860046D045">
+<dcat:title  xml:lang="el">Στατιστικά στοχεία που έχου σχέση με το νερό</dcat:title>
+<dcat:description>- Αποθήκευση Νερού στα Φράγματα. 
+- Αποθήκευση Νερού στα Φράγματα την 1 Οκτωβρίου (Έναρξη υδρολογικού Έτους).
+- Κατασκευή Φραγμάτων Κατασκευή Φραγμάτων.
+- Ετήσια Βροχόπτωση της Κύπρου (Ελεύθερες Περιοχές) Ετήσια Βροχόπτωση της Κύπρου (Ελεύθερες Περιοχές).
+- Εισροή νερού στα Φράγματα (Υδρολογικό Έτος) Εισροή νερού στα φράγματα (Υδρολογικό Έτος). 
+- Διάθεση νερού από τα Κυβερνητικά Υδατικά Έργα Διάθεση νερού από τα Κυβερνητικά Υδατικά Έργα.
+- Κυβερνητικά Υδατικά Έργα-Πηγές Άρδευσης Κυβερνητικά Υδατικά Έργα-Πηγές Άρδευσης. 
+- Κυβερνητικά Υδατικά Έργα-Πηγές Ύδρευσης  Κυβερνητικά Υδατικά Έργα-Πηγές Ύδρευσης.
+- Αποτελέσματα Χημικών και Μικροβιολογικών Αναλύσεων από τον Έλεγχο της Ποιότητας του Ανακυκλωμένου Νερού.
+- Αποτελέσματα Χημικών και Μικροβιολογικών Αναλύσεων Νερού Άρδευσης Τμήματος Αναπτύξεως Υδάτων.
+- Αποτελέσματα Χημικών και Μικροβιολογικών Αναλύσεων Υδρευτικών Συστημάτων Τμήματος Αναπτύξεως Υδάτων.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/statistics_gr/statistics_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0618E8C888C1AB6BC2257D850041D5E7">
+<dcat:title  xml:lang="el">Χάρτες Επικινδυνότητας Πλημμύρας και Χάρτες Κινδύνων Πλημμύρας</dcat:title>
+<dcat:description>Οι Χάρτες Επικινδυνότητας Πλημμύρας και Χάρτες Κινδύνων Πλημμύρας αφορούν περιοχές που, με βάση ιστορικά δεδομένα ή/και άλλα διαθέσιμα στοιχεία, έχουν αναγνωρισθεί ως Περιοχές Δυνητικού Σοβαρού Κινδύνου Πλημμύρας (ΠΔΣΚΠ).
+
+Χάρτες Επικινδυνότητας Πλημμύρας
+Οι Χάρτες Επικινδυνότητας Πλημμύρας των ΠΔΣΚΠ παρουσιάζουν  3 σενάρια πλημμύρας. 
+1) Πλημμύρα με πιθανότητα 1 στα 500 χρόνια (χαμηλή πιθανότητα δηλαδή σπάνιο/ακραίο φαινόμενο)
+2) Πλημμύρα με πιθανότητα 1 στα 100 χρόνια (μέση πιθανότητα)
+3) Πλημμύρα με πιθανότητα 1 στα 20 χρόνια (υψηλή πιθανότητα)
+και για κάθε ένα από τα τρία σενάρια παρουσιάζονται τα ακόλουθα στοιχεία:
+α) η έκταση της πλημμύρας,
+β) το βάθος του νερού.
+
+Χάρτες Κινδύνου Πλημμύρας
+Οι Χάρτες Κινδύνου Πλημμύρας παρουσιάζουν τις δυνητικές αρνητικές συνέπειες στις ΠΔΣΚΠ που συνδέονται με τα 3 σενάρια πλημμύρων (χαμηλής πιθανότητα, μέσης πιθανότητας και υψηλής πιθανότητας) και περιλαμβάνουν πληροφορίες σχετικά με:
+α)  ενδεικτικό αριθμό κατοίκων που ενδέχεται να πληγούν,
+β)  τον τύπο οικονομικής/πολιτιστικής/αρχαιολογικής σημασίας δραστηριότητας στην περιοχή που ενδέχεται να πληγεί,
+γ)  εγκαταστάσεις οι οποίες ενδέχεται να προκαλέσουν τυχαία ρύπανση σε περίπτωση πλημμύρας και
+δ)  άλλες πιθανές σημαντικές πηγές ρύπανσης.
+Ι
+Σημ.
+1. ΠΔΣΚΠ = Περιοχή  Δυνητικού Σοβαρού Κινδύνου Πλημμύρας
+2. Η αρίθμηση των χαρτών είναι αντίστοιχη με την αρίθμηση των περιοχών</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Παναρέτου Μαριλένα</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:ydrologi@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/WDD/WDD.nsf/all/410903B9E6BB3FF5C2257D2D003B0D46?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds719E9625E0AC95C4C2257D90002ED12B">
+<dcat:title  xml:lang="el">Αποχετευτικά Συστήματα</dcat:title>
+<dcat:description>Η Υπηρεσία Αποχετεύσεων και Ανακύκλωσης, έχει αρμοδιότητα να χειρίζεται αυτά τα θέματα. Οι αρμοδιότητες και οι ευθύνες της Υπηρεσίας περιγράφονται πιο κάτω: 
+A. Εφαρμογή της Οδηγίας 91/271/ΕΟΚ για την επεξεργασία των Αστικών Λυμάτων, όσον αφορά την  κατάρτιση και υλοποίηση του Εθνικού Προγράμματος Εφαρμογής της Οδηγίας που περιλαμβάνει προγραμματισμό, εκπόνηση μελετών και προώθηση κατασκευής αποχετευτικών συστημάτων και παρακολούθηση της λειτουργίας και συντήρησης σε αγροτικές κοινότητες και δήμους, με ισοδύναμο πληθυσμό μεγαλύτερο των 2.000, συντονισμό με τα Αστικά Συμβούλια Αποχετεύσεων για τη δική τους συνδρομή για την εφαρμογή της Οδηγίας στις πόλεις και ετοιμασία εκθέσεων κατάστασης και προόδου προς την Ευρωπαϊκή Επιτροπή. Σχετική Νομοθεσία για εναρμόνιση με την πιο πάνω Οδηγία Ο ΠΕΡΙ ΕΛΕΓΧΟΥ ΤΗΣ ΡΥΠΑΝΣΗΣ ΤΩΝ ΝΕΡΩΝ ΝΟΜΟΣ (Απόρριψη Αστικών Λυμάτων) Κ.Δ.Π. 772/2003 
+
+B. Εφαρμογή των περί Αποχετευτικών Συστημάτων Νόμων 1971-2010 όσον αφορά την εκπόνηση μελετών, την προώθηση κατασκευής και την παρακολούθηση της λειτουργίας και συντήρησης των αποχετευτικών συστημάτων σε μικρές αγροτικές κοινότητες με ισοδύναμο πληθυσμό μικρότερο των 2.000 καθώς και σε στρατόπεδα. 
+
+Γ. Παρακολούθηση Λειτουργίας και Συντήρησης των Σταθμών Επεξεργασίας Λυμάτων.  
+
+Δ. Διαχείριση του Σταθμού Επεξεργασίας Οικιακών Λυμάτων και Βιομηχανικών Αποβλήτων της Βαθιάς Γωνιάς. 
+
+Ε. Χειρισμός εξειδικευμένων θεμάτων υγειονομικής μηχανικής που άπτονται της δημόσιας υγείας και της προστασίας του περιβάλλοντος. 
+
+ΣΤ. Υπογραφή Συμβάσεων Αναβάθμισης Σταθμών Επεξεργασίας Λυμάτων 
+
+Z. Έργο κατασκευής σταθμού επεξεργασίας οικιακών βοθρολυμάτων και βιομηχανικών αποβλήτων στην περιοχή Βατί</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Λία Γεωργίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:lgeorgiou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/sewage_schemes_gr/sewage_schemes_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsA8B0DBE71C0402D2C2257D9500201954">
+<dcat:title  xml:lang="el">Ενημερωτικά φυλλάδια του Τμήματος Αναπτύξεως Υδάτων που αφορούν το νερό</dcat:title>
+<dcat:description>10 Απλοί τρόποι εξοικονόμησης νερού - Αγγλικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Βουλγάρικα
+10 Απλοί τρόποι εξοικονόμησης νερού - Γαλλικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Γερμανικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Ελληνικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Ισπανικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Ιταλικά
+10 Απλοί τρόποι εξοικονόμησης νερού - Ρουμάνικα
+10 Απλοί τρόποι εξοικονόμησης νερού - Ρώσσικα
+10 Απλοί τρόποι εξοικονόμησης νερού - Σρι Λάνκα
+10 Απλοί τρόποι εξοικονόμησης νερού - Τούρκικα
+10 Απλοί τρόποι εξοικονόμησης νερού - Φιλιππινέζικα
+Co-Financed Sewerage Systems - German
+Ανακύκλωση Ημιακάθαρτου Νερού
+Απλοί τρόποι εξοινονόμησης πόσιμου νερού
+Βιολογική παρακολούθηση ποταμών
+Βιολογική παρακολούθηση ταμιευτήρων νερού
+Διυλιστήριο Νερού Ασπρόκρεμμου
+Διυλιστήριο Νερού Τερσεφάνου and Αγωγός Τερσεφάνου - Λευκωσίας
+Διυλιστήριο Ύδατος Λεμεσού
+Εξοικονόμηση Νερού
+Εξοικονόμηση Νερού - Κάθε σταγόνα ΜΕΤΡΑ
+Εξοικονομήστε ΝΕΡΟ
+Ευρωμεσογειακό Σύστημα Πληροφοριών για το Νερό
+Η Χρήση Ανακυκλωμένου Νερού στη Γεωργία
+Η χρήση της λάσπης των Βιολογικών Σταθμών στην γεωργία
+Οδηγία Πλαίσιο περί Υδάτων
+Οδηγίες προς τους γεωργούς για Εξοικονόμηση / Ορθολογική Χρήση Νερού Άρδευσης
+ΟΠΥ - Αφίσα Προκαταρκτικού Σχεδίου Διαχείρισης Υδάτων
+ΟΠΥ - Δεύτερο έντυπο στα πλαίσιατης Δημοσίας Διαβούλευσης "Δημόσια Συμμετοχή"
+ΟΠΥ - Προκαταρκτικό Σχέδιο Διαχείρισης Υδάτων
+ΟΠΥ - Πρώτο έντυπο στα πλαίσια της Δημοσίας Διαβούλευσης "Οδηγία Πλαίσιο περί Υδάτων"
+ΟΠΥ - Τρίτο έντυπο στα πλαίσιατης Δημοσίας Διαβούλευσης "Σημαντικά θέματα Διαχείρισης Νερών"
+Συγχρηματοδοτούμενα Αποχετευτικά Έργα - Αγγλικά
+Συγχρηματοδοτούμενα Αποχετευτικά Έργα - Γαλλικά
+Συγχρηματοδοτούμενα Αποχετευτικά Έργα - Ελληνικά
+Σύνδεση Γεώτρησης με Αποχωρητήριο
+Υπηρεσία Υδάτινων Πόρων - Υπηρεσία Υδρολογίας και Υδρογεωλογίας
+Φράγμα Ακακίου - Μαλούντας
+Φράγμα Αρμίνου
+Φράγμα Κανναβιού
+Φράγμα Κούρη
+Φράγμα Σολέας
+Φράγμα Ταμασσού</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Αιμίλιος Ιωάννου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/wdd/Wdd.nsf/leaflets_gr/leaflets_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds5D42BCB567706FAAC2257D850045558D">
+<dcat:title  xml:lang="el">Φράγματα της Κύπρου</dcat:title>
+<dcat:description>Χαρακτηρηστικά των Φραγμάτων</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Ιωάννου Αιμίλιος</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/5D42BCB567706FAAC2257D850045558D/$file/Fragmata_grk.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8D9E8299090BAFBDC2257DAB0046B7B8">
+<dcat:title  xml:lang="el">Χάρτης με τα Μεγάλα Υδατικά Έργα</dcat:title>
+<dcat:description>Χάρτης που περιλαμβάνει όλα τα Μεγάλα Υδατικά Έργα της Κύπρου και δίδει την πρόσβαση σε στοιχεία, χάρτες και φωτογραφικό υλικό</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1206"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1206">
+		<vcard:fn>Ιωάννου Αιμίλιος</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:eioannou@wdd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1206">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/8D9E8299090BAFBDC2257DAB0046B7B8/$file/Cyp_Irrig_grk_Dec_2014.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1207">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1207">
+      <foaf:name>1207 - ΤΜΗΜΑ ΓΕΩΛΟΓΙΚΗΣ ΕΠΙΣΚΟΠΗΣΕΩΣ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC1063ABEB31E5EFFC2257D8C003C99D3">
+<dcat:title  xml:lang="el">Μελέτες και Προγράμματα Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlStudiesAndProjects_gr/dmlStudiesAndProjects_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsCA0D015A37EF348DC2257D970037FA4F">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Γεωφυσική</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlGeophysics_gr/dmlGeophysics_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds4EE20A63FD39EDAEC2257D8C003BE2F7">
+<dcat:title  xml:lang="el">Πίνακας Ιστορικών Σεισμών Κύπρου</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlHistEarthquakes_gr/dmlHistEarthquakes_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8FA036332AF0A553C2257D9700380C5E">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Σεισμολογία</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlSeismology_gr/dmlSeismology_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE9DE12118D901D9EC2257D9700380AD9">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Μηχανική Γεωλογία</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlEngGeo_gr/dmlEngGeo_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC780261E33427ABFC2257D9600380AC7">
+<dcat:title  xml:lang="el">Ετήσιες Εκθέσεις Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlAnnualReports_gr/dmlAnnualReports_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds72138936A8DFEC45C2257D9700380B5D">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Οικονομική Γεωλογία</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlEcoGeo_gr/dmlEcoGeo_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds3999F9E5041EB6CCC2257D96003963CC">
+<dcat:title  xml:lang="el">Ενημερωτικά Άρθρα Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlArticles_gr/dmlArticles_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsF3822CFEE1145906C2257D8C003C1257">
+<dcat:title  xml:lang="el">Πίνακας Σημαντικών Σεισμών Κύπρου Τελευταίου Αιώνα</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlHistEarthquakes_gr/dmlHistEarthquakes_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds19455C5755F7B96DC2257D960039DE7C">
+<dcat:title  xml:lang="el">Έντυπα προς συμπλήρωση Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlToDownload_gr/dmlToDownload_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsBBF18B45DC5F6DF5C2257D8C003A5E96">
+<dcat:title  xml:lang="el">Βιβλία Γεωλογίας Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description>Βιβλία γεωλογίας που  διαθέτει προς πώληση το Τμήμα Γεωλογικής Επισκόπησης. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlBooks_gr/dmlBooks_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds12C5DFC5F627D0AFC2257D9700385925">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Υδρογεωλογία - Γεωτρήσεις</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlHydrogeology_gr/dmlHydrogeology_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8D5F87B79042A0DBC2257D9700380BE0">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Περιβαλλοντική Γεωλογία - Χημείο</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlEnvGeo_gr/dmlEnvGeo_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds4309E67D238A4859C2257D8C003B3A0B">
+<dcat:title  xml:lang="el">Άρθρα Σεισμολογίας</dcat:title>
+<dcat:description>Άρθρα σε θέματα σεισμολογίας του Τμήματος Γεωλογικής Επισκόπησης. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/C7AE9681A86ED272C2257C690049B9E5?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds43D1878BD49BFB98C2257D970037BFD0">
+<dcat:title  xml:lang="el">Δραστηριότητες Τμήματος Γεωλογικής Επισκόπησης - Γενική Γεωλογία, Χαρτογραφία, GIS</dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlGeneralGeo_gr/dmlGeneralGeo_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE109ECE84AE1B19DC2257D8600464D6F">
+<dcat:title  xml:lang="el">Σεισμολογικό Κέντρο Μαθιάτη</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:theme>
+<dcat:keyword>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/6418414E37A50338C2257AFB004476E4?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB8BA2F6F65A1C44EC2257D8C0039BCCB">
+<dcat:title  xml:lang="el">Γεωλογικοί Χάρτες Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description>Γεωλογικοί Χάρτες που έχει εκδόσει και διαθέτει προς πώληση σε έντυπη μορφή το Τμήμα Γεωλογικής Επισκόπησης. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlPrintedMaps_gr/dmlPrintedMaps_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsF22FDB551DCE2561C2257D8C003A99FE">
+<dcat:title  xml:lang="el">Γεωλογικά Δελτία Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description>Γεωλογικά Δελτία που έχει εκδόσει και διαθέτει προς πώληση σε έντυπη μορφή το Τμήμα Γεωλογικής Επισκόπησης. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlBulletins_gr/dmlBulletins_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds23CFBFA3941A47E9C2257D86004634EE">
+<dcat:title  xml:lang="el">Σεισμολογικό Κέντρο Λευκωσίας</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:theme>
+<dcat:keyword>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/3B69B70B4A5145CCC2257AFB00446C8A?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAACADB7AEABF3E4DC2257D8C003AB7AF">
+<dcat:title  xml:lang="el">Γεωλογικά Μνημόνια Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description>Γεωλογικά Μνημόνια που έχει εκδόσει και διαθέτει προς πώληση σε έντυπη μορφή το Τμήμα Γεωλογικής Επισκόπησης. </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlMemoirs_gr/dmlMemoirs_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC02FADB7D02399DDC2257D86004764B3">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 2013</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2013.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/BF11FEAEAA4B1D24C22578570033834F?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds32698002A6CC2773C2257D8600479497">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 2012</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2012.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/7204FDD900CF288DC2257C5A00427B38?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsBF32C1A8ECD1964BC2257D96003924F3">
+<dcat:title  xml:lang="el">Ενημερωτικά Έντυπα Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlInfoLeaflets_gr/dmlInfoLeaflets_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds5B7F6BC971144926C2257D860047A673">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 2011</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2011.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/F4FF32FCC297AA86C2257AED0046211A?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsCB10F58C656FBA9AC2257D870048A066">
+<dcat:title  xml:lang="el">Χάρτες Σεισμικότητας της Κύπρου</dcat:title>
+<dcat:description>Διάφοροι χάρτες σεισμικότητας της Κύπρου και του ευρύτερου Μεσογειακού χώρου.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlmapsearth_gr/dmlmapsearth_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8F2294E3C2D8366FC2257D8600472DA1">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 2014</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2014.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlEarthquakesAnnounce_gr/dmlEarthquakesAnnounce_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE29087E703BF836DC2257D860047A4E4">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 2010</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2010.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/CF5F07078A65EB95C22579B400331164?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9B72154212535CB1C2257D8700472E93">
+<dcat:title  xml:lang="el">Βάση Σεισμολογικών Δεδομένων Σεισμών 1997-σήμερα</dcat:title>
+<dcat:description> Βάση Σεισμολογικών Δεδομένων Σεισμών (1997-σήμερα) του Τμήματος Γεωλογικής Επισκόπησης</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://81.4.135.34:8080"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds14F6F7638EE4DA57C2257D8C00396EB3">
+<dcat:title  xml:lang="el">Ψηφιακά Γεωλογικά Δεδομένα με Γεω-αναφορά</dcat:title>
+<dcat:description>Ψηφιακά Γεωλογικά Δεδομένα με Γεω-αναφορά (ArcMap) του Τμήματος Γεωλογικής Επισκόπησης </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/dmlDigitalData_gr/dmlDigitalData_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds74B7D1EC8C515401C2257D870045BE9E">
+<dcat:title  xml:lang="el">Σεισμολογικές Εκθέσεις και Δελτία Τμήματος Γεωλογικής Επισκόπησης</dcat:title>
+<dcat:description>Σεισμολογικές Εκθέσεις που έχουν δημοσιευτεί από το Τμήμα Γεωλογικής Επισκόπησης</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/reports_gr/reports_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds576DACB75A4CBCC2C2257D8600426519">
+<dcat:title  xml:lang="el">Τρέχουσα Σεισμικότητα της Κύπρου</dcat:title>
+<dcat:description>Βάση Δεδομένων του Σεισμολογικού Κέντρου του Τμήματος Γεωλογικής Επισκόπησης σε πλήρως διαδραστικό περιβάλλον. Ο επισκέπτης μπορεί να βρει πληροφορίες για όλους του σεισμούς που έχουν καταγράψει τα σεισμολογικά δίκτυα της Κύπρου από το 1997 μέχρι σήμερα.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://81.4.135.34:8080"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC25A7424295CDC0EC2257D860044F25A">
+<dcat:title  xml:lang="el">Τρέχουσες Καταγραφές Σεισμολογικών Σταθμών</dcat:title>
+<dcat:description>Τρέχουσες καταγραφές των 9 χερσαίων υπαίθριων σεισμολογικών σταθμών του Τμήματος Γεωλογικής Επισκόπησης</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/C7E05D87DC16E77CC2257D0F003F8CA7?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsDFC4A8E9FAFD5FC0C2257D870048FD13">
+<dcat:title  xml:lang="el">Τα Σεισμολογικά Δίκτυα της Κύπρου</dcat:title>
+<dcat:description>Τα Σεισμολογικά Δίκτυα της Κύπρου και οι σχετικές με αυτά εγκαταστάσεις (Σεισμολογικά Κέντρα, Δίκτυα Τηλεπικοινωνιών κτλ) που λειτουργεί το Τμήμα Γεωλογικής Επισκόπησης για την συνεχή παρακολούθηση της σεισμικής δραστηριότητας της ευρύτερης περιοχής της Κύπρου.</dcat:description>
+<dcat:theme>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:theme>
+<dcat:keyword>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/network_gr/network_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds34171148AA779C7BC2257D8C0038E76A">
+<dcat:title  xml:lang="el">Χάρτες Σεισμικών Ζωνών Κύπρου</dcat:title>
+<dcat:description>Οι σεισμικές ζώνες της Κύπρου όπως έχουν εκδοθεί από την Επιτροπή Αναθεώρησης των Ζωνών του Κυπριακού Αντισεισμικού Κώδικα τον Οκτώβριο του 2004. Οι τρεις σεισμικές ζώνες φαίνονται στον χάρτη και αναφέρονται σε αναμενόμενες εδαφικές επιταχύνσεις (PGA) κάτω από δυναμικές συνθήκες (σε περίπτωση σεισμού) με 10% πιθανότητα υπέρβασης σε 50 χρόνια. 
+
+</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/E0BDA32E1F9BF7ACC22579B50041E6D2?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds1CD95E6F422B0826C2257D8600456121">
+<dcat:title  xml:lang="el">Το Νεο Ψηφιακό Σεισμολογικό Δίκτυο της Κύπρου</dcat:title>
+<dcat:description>Στα πλαίσια της συνεχούς προσπάθειας του Τμήματος για την βελτίωση των υπηρεσιών που προσφέρονται στον πολίτη, αλλά και ακολουθώντας τις πρόσφατες τεχνολογικές εξελίξεις στον τομέα των σεισμολογικών οργάνων, το Τμήμα Γεωλογικής Επισκόπησης προχώρησε το 2013 στην πλήρη αναβάθμιση των Σεισμολογικών Σταθμών, Κέντρων και Δικτύου.
+
+Το Νέο Σεισμολογικό Δίκτυο του Τμήματος Γεωλογικής Επισκόπησης αποτελείται από 11 τοπικούς σεισμολογικούς σταθμούς (εννέα χερσαίους και δύο υποθαλάσσιους), από τους οποίους οι οκτώ είναι πλήρως ιδιόκτητοι του Τμήματος. Οι σταθμοί είναι εξοπλισμένοι με τελευταίας τεχνολογίας σεισμόμετρα τριών συνιστωσών, ευρέως φάσματος (broadband) και υψηλής διακριτικής ικανότητας, με ψηφιακούς σεισμογράφους (ψηφιοποιητές) και έχουν αυτόνομη και απρόσκοπτη παροχή ενέργειας. Οι οκτώ σεισμολογικοί σταθμοί στέλνουν σε πραγματικό χρόνο με αυτόνομη δορυφορική σύνδεση τα δεδομένα σε δύο σεισμολογικά κέντρα συλλογής, επεξεργασίας και ανάλυσης: στο υφιστάμενο Σεισμολογικό Κέντρο δεδομένων που στεγάζεται στα γραφεία του Τμήματος Γεωλογικής Επισκόπησης και σε εφεδρικό Σεισμολογικό Κέντρο στον Μαθιάτη. </dcat:description>
+<dcat:theme>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:theme>
+<dcat:keyword>Επιστήμη, Τεχνολογία and Καινοτομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/gsd/gsd.nsf/All/3E5B7CB5EE4A59DBC22579EC0037F318?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsF2223F5FD2718909C2257D8600455ED9">
+<dcat:title  xml:lang="el">Αισθητοί Σεισμοί της Κύπρου κατά το 1997-2010</dcat:title>
+<dcat:description>Ανακοινώσεις του Τμήματος Γεωλογικής Επισκόπησης για τους αισθητούς σεισμούς κατά το 2012.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/F2223F5FD2718909C2257D8600455ED9/$file/FELT-1997-2010-FINAL.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds42B34DE6B20A281EC2257D870047F1BD">
+<dcat:title  xml:lang="el">Κατάλογος Σεισμών (XLS) 1997-2011</dcat:title>
+<dcat:description>Κατάλογος Σεισμών 1997-2011του Τμήματος Γεωλογικής Επισκόπησης</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>XLS</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/42B34DE6B20A281EC2257D870047F1BD/$file/1997-2011.xls"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0B77F1E2D6F27EA2C2257D970036F3A2">
+<dcat:title  xml:lang="el">Ο Περί των Γεωλογικών Επισκοπήσεων Νόμος του 2013 - Ν.140(I)/2013 </dcat:title>
+<dcat:description> </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0B77F1E2D6F27EA2C2257D970036F3A2/$file/Peri Geologikon Episkopiseon Nomos 140(I)2013.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAE04E0C6F9CF8F33C2257D8600488074">
+<dcat:title  xml:lang="el">Σεισμοί: Συχνές Ερωτήσεις, Μύθοι και Αλήθειες</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/AE04E0C6F9CF8F33C2257D8600488074/$file/Earthquake_FAQ_2014.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds8AE58E981279ACF3C2257D8700499180">
+<dcat:title  xml:lang="el">Κατάλογος Σεισμών (PDF) 1997-2011</dcat:title>
+<dcat:description>Κατάλογος Σεισμών 1997-2011του Τμήματος Γεωλογικής Επισκόπησης</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/8AE58E981279ACF3C2257D8700499180/$file/1997-2011.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds36ACCE5924E670A5C2257D8C003B7A23">
+<dcat:title  xml:lang="el">Η Σεισμικότητα της Κύπρου - Ενημερωτικό Έντυπο</dcat:title>
+<dcat:description>Ενημερωτικό Έντυπο του Τμήματος Γεωλογικής Επισκόπησης με θέμα τη σεισμικότητα της Κύπρου.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1207"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1207">
+		<vcard:fn>Συλβάνα Πηλείδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:director@gsd.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1207">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/36ACCE5924E670A5C2257D8C003B7A23/$file/seismology_GR.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1208">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1208">
+      <foaf:name>1208 - ΜΕΤΕΩΡΟΛΟΓΙΚΗ ΥΠΗΡΕΣΙΑ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsB084A56D850087E8C2257D94003CAE19">
+<dcat:title  xml:lang="el">Συνήθεις Ερωτήσεις </dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLfaq_gr?OpenForm"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds82135A4180596BA7C2257D940041908E">
+<dcat:title  xml:lang="el">Εποχικές Προγνώσεις</dcat:title>
+<dcat:description>Εποχικές Προγνώσεις προηγούμενων ετών από το 2010 εως το 2014</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLseasonalforecasting_gr/DMLseasonalforecasting_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsBA4D30133EF2E00FC2257D94004218AC">
+<dcat:title  xml:lang="el">Τελικά στοιχεία Βροχόπτωσης, Σεπτέμβριος 2014</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/2DA8FEDD52066357C2257D86003772E1/$file/Precipitation_%20SEP2014_GR_FINAL.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds1A94AA163E7558A3C2257D8D00381A48">
+<dcat:title  xml:lang="el">Σειρά Μετεωρολογικών Μελετών και Σημειωμάτων</dcat:title>
+<dcat:description>Μελέτες και Σημειώματα που εκδίδει το Τμήμα Μετεωρολογίας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLleaflets_gr/DMLleaflets_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAF0ECDF8E5B595B2C2257D9400466C93">
+<dcat:title  xml:lang="el">ΠΡΟΓΝΩΣΗ ΚΑΙΡΟΥ</dcat:title>
+<dcat:description>Γενική Πρόγνωση Καιρού
+Πρόγνωση για τη Θαλάσσια Περιοχή της Κύπρου
+Πρόγνωση για την Ανατολική Μεσόγειο (NAVTEX)
+Πρόγνωση για τους Αεροναυτιλλόμενους</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLforecast_gr/DMLforecast_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds31083B3DE583C900C2257D94003A8AF0">
+<dcat:title  xml:lang="el">Ημερήσιο Δελτίο Βροχόπτωσης</dcat:title>
+<dcat:description>Ημερήσιο Δελτίο Βροχόπτωσης για συγκεκριμένους σταθμούς.
+ Όλα τα στοιχεία είναι προκαταρκτικά</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLrain_gr/DMLrain_gr?opendocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds07072351F8485BFEC2257D94003B5CF7">
+<dcat:title  xml:lang="el">Ημερήσιοι Χάρτες Βροχόπτωσης από το 2010 εως το 2015</dcat:title>
+<dcat:description>Ημερήσιοι Χάρτες Βροχόπτωσης από το 2010 εως το 2015. Όλα τα στοιχεία είναι προκαταρτκικά
+ (όταν υπάρχει βροχόπτωση)</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLClimatological2b_maps1_gr/DMLClimatological2b_maps1_gr?OpenFormandStart=1andCount=300andExpand=1andSeq=4"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsAF12E3D70BD32645C2257D940038D17D">
+<dcat:title  xml:lang="el">Θερμοκρασία και Σχετική Υγρασία - 08:00 και 13:00 - Τ.Ε.Χ. 
+για τον Νοέμβριο 2014</dcat:title>
+<dcat:description>Θερμοκρασία και Σχετική Υγρασία για τις ώρες 08:00 και 13:00 (Τ.Ε.Χ.) 
+για τον Νοέμβριο 2014, για τους σταθμούς Αεροδρόμιο Πάφου και Λάρνακας,
+καθώς επίσης και για τον σταθμό της Αθαλάσσας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/All/B4A7059FDB0EEC2CC2257D8500330DA1/$file/Daily%20Temperature%20Relative%20Humidity_11_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds90756C6D5FC94BC0C2257D94003A0C33">
+<dcat:title  xml:lang="el">Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Οκτώβριος 2014</dcat:title>
+<dcat:description>Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση για τον Οκτώβριο 2014, για 
+διάφορες περιοχές της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/F34FE428A1C17D46C2257D65003716B0/$file/MAX%20-%20MIN%20-%20RAIN_10_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds77053372F4815319C2257D9400368D60">
+<dcat:title  xml:lang="el">Κανονικές Τιμές (Μέγιστη και Ελάχιστη Θερμοκρασία) ανά 5 ημέρες</dcat:title>
+<dcat:description>Κανονικές Τιμές κάθε μήνα ανά 5 ημέρες για το Αεροδρόμιο Πάφου  και Λάρνακας,
+για το Δασικό Κολλέγιο Προδρόμου, για το Νέο Λιμάνι Λεμεσού και για την Αθαλάσσα </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/44D3E8D8A18FFF71C2257868002A0C95/$file/Kanonikes%20times_new_1971_2000_NOV2013_GR.pdf?OpenElement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds910CFFC4678B90B7C2257D940039A07D">
+<dcat:title  xml:lang="el">Θερμοκρασία και Σχετική Υγρασία - 08:00 και 13:00 Τ.Ε.Χ.
+για τον Οκτώβριο 2014</dcat:title>
+<dcat:description>Θερμοκρασία και Σχετική Υγρασία για τις ώρες 08:00 και 13:00 (Τ.Ε.Χ.)
+για τον Οκτώβριο 2014, για τους σταθμούς Αεροδρόμιο Πάφου και Λάρνακας
+καθώς επίσης και για τον σταθμό της Αθαλάσσας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/323506F8E9B75054C2257D650036E8CB/$file/Daily%20Temperature%20Relative%20Humidity_10_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds275A216663B22EB7C2257D9400382D3C">
+<dcat:title  xml:lang="el">Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Νοέμβριος 2014</dcat:title>
+<dcat:description>Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση για τον μήνα Νοέμβριο  2014, 
+για διάφορες περιοχές της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/All/3B46CBE1EFF188E5C2257D85003339C5/$file/MAX%20-%20MIN%20-%20RAIN_11_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsDEB25E4915003B48C2257D8D0034D96F">
+<dcat:title  xml:lang="el">Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Σεπτέμβριος 2014</dcat:title>
+<dcat:description>Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Σεπτέμβριο 2014 
+για διάφορες περιοχές της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/877BC3D88B1ED028C2257D4600303CF5/$file/MAX%20-%20MIN%20-%20RAIN_09_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE0D0945BC0E55D4DC2257D8D00341A73">
+<dcat:title  xml:lang="el">Μηνιαία Βροχόπτωση στην Κύπρο κατά την διάρκεια
+του Υδρομετεωρολογικού Έτους 2013 -2014</dcat:title>
+<dcat:description>Μηνιαία Βροχόπτωση στην Κύπρο κατά την διάρκεια
+του Υδρομετεωρρολογικού Έτους 2013 -2014 και σύγκριση με την κανονική (1961-1990)
+για τις ελεύθερες πειοχές.</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/E0D0945BC0E55D4DC2257D8D00341A73/$file/MonthlyRainCyprus_GR_2013_14.pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0091ECBB323121ADC2257DA10045417E">
+<dcat:title  xml:lang="el">Θερμοκρασία και Σχετική Υγρασία
+ - 08:00 και 13:00 -Τ.Ε.Χ. για τον Δεκέμβριο 2014</dcat:title>
+<dcat:description>Θερμοκρασία και Σχετική Υγρασία  - 08:00 και 13:00 -Τ.Ε.Χ. για τον Δεκέμβριο 2014
+για τους σταθμούς Αεροδρόμιο Πάφου και Λάρνακας καθώς επίσης και για τον σταθμό 
+της Αθαλάσσας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/FA88D8A31F90708DC2257DA100359071/$file/Daily%20Temperature%20Relative%20Humidity_12_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsC8A070D3FBE66E19C2257DA10045BB52">
+<dcat:title  xml:lang="el">Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Δεκέμβριος 2014</dcat:title>
+<dcat:description>Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση για τον μήνα Δεκέμβριο 2014, 
+για διάφορες περιοχές της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn>Γιάννα Αναστασίου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:yanastasiou@dom.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/FC2B7AF81CF028C1C2257DA10035B1D4/$file/MAX%20-%20MIN%20-%20RAIN_12_2014.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds64EE65BA7B826DBCC2257DD2003BD09F">
+<dcat:title  xml:lang="el">Τελικά στοιχεία Βροχόπτωσης, Νοέμβριος 2014</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/7CFF60DF954E36B6C2257DCC002B2816/$file/Precipitation_Nov2014__GR_Final.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsD218073C82C49A25C2257DD2003B88F6">
+<dcat:title  xml:lang="el">Τελικά στοιχεία Βροχόπτωσης, Οκτώβριος 2014</dcat:title>
+<dcat:description></dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/3A9B1109F70401C2C2257DC8003F10AC/$file/Precipitation_Oct_2014_GR_Final.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsFACF0BC5AFF62150C2257DD2003CA210">
+<dcat:title  xml:lang="el">Μηνιαία Βροχόπτωση στην Κύπρο κατά την διάρκεια
+του Υδρομετεωρολογικού Έτους 2014-2015</dcat:title>
+<dcat:description>Μηνιαία Βροχόπτωση στην Κύπρο κατα την διάρκεια του Υδρομετεωρολγικού Έτους
+ 2014-2015 (Οκτ. 2014 - Σεπτ. 2015) σε σύγκριση με την κανονική 1961-1990 για τις ελεύθερες πειοχές</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>PDF</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/FACF0BC5AFF62150C2257DD2003CA210/$file/MonthlyRainCyprus_GR_2014_15  .pdf"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds1A8DB28FBB35FF6CC2257DD6003BB78F">
+<dcat:title  xml:lang="el">Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Ιανουάριος 2015</dcat:title>
+<dcat:description>Μέγιστη, Ελάχιστη Θερμοκρασία και Βροχόπτωση, Ιανουάριος 2015,
+για διάφορες περιοχές της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/C96C74D35D914B2EC2257DC4003C37E7/$file/MAX%20-%20MIN%20-%20RAIN_01_2015.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds3CE3D3B4C23C8B57C2257DD60043E165">
+<dcat:title  xml:lang="el">Το κλίμα της Κύπρου</dcat:title>
+<dcat:description>Γενικές πληροφορίες για το κλίμα της Κύπρου</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/ms/ms.nsf/DMLcyclimate_gr/DMLcyclimate_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9DDFE3B878E6E029C2257DD60040B325">
+<dcat:title  xml:lang="el">Θερμοκρασία και Σχετική Υγρασία - 08:00 και 13:00 - Τ.Ε.Χ.
+για τον Ιανουάριο 2015</dcat:title>
+<dcat:description>Θερμοκρασία και Σχετική Υγρασία για τις ώρες 08:00 και 13:00 (Τ.Ε.Χ.)
+για τον Ιανουάριο του 2015, για τους σταθμούς Αεροδρόμιο Πάφου και Λάρνακας, και
+σταθμού Αθαλάσσας</dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1208"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1208">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1208">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/MS/MS.nsf/All/1CF296563DB689A2C2257DC4003BE26F/$file/Daily%20Temperature%20Relative%20Humidity_01_2015.pdf?Openelement"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1212">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1212">
+      <foaf:name>1212 - ΤΜΗΜΑ ΑΛΙΕΙΑΣ ΚΑΙ ΘΑΛΑΣΣΙΩΝ ΕΡΕΥΝΩΝ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsE72977DF5E543DE042257D970043FFB0">
+<dcat:title  xml:lang="el">Ενημερωτικά φυλλάδια - Διαφωτιστικό Υλικό Τμήματος Αλιείας</dcat:title>
+<dcat:description>Το Τμήμα Αλιείας και Θαλασσίων Ερευνών εκδίδει ενημερωτικά φυλλάδια για την πληροφόρηση του κοινού (τρίπτυχα, αφίσες). </dcat:description>
+<dcat:theme>Γεωργία/Κτηνοτροφία/Αλιεία</dcat:theme>
+<dcat:keyword>Γεωργία/Κτηνοτροφία/Αλιεία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1212"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1212">
+		<vcard:fn>Μαρία Τριανταφυλλίδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mtriantafyllidou@dfmr.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1212">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/dfmr/dfmr.nsf/DMLspeeches_gr/DMLspeeches_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds6FC496007FB5B78C42257D95003D2E8A">
+<dcat:title  xml:lang="el">Ετήσιες εκθέσεις του Τμήματος Αλιείας και Θαλασσίων Ερευνών  </dcat:title>
+<dcat:description>Περιγράφει τις δραστηριότητες του Τμήματος Αλιείας και Θαλασσίων Ερευνών ανά έτος </dcat:description>
+<dcat:theme>Γεωργία/Κτηνοτροφία/Αλιεία</dcat:theme>
+<dcat:keyword>Γεωργία/Κτηνοτροφία/Αλιεία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1212"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1212">
+		<vcard:fn>Μαρία Τριανταφυλλίδου</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:mtriantafyllidou@dfmr.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1212">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/dfmr/dfmr.nsf/DMLreports_gr/DMLreports_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="dsA0F281A9ECA6A02142257D95004100E7">
+<dcat:title  xml:lang="el">Οδηγία Πλαίσιο για τη Θαλάσσια Στρατηγική (2008/56/ΕΚ)</dcat:title>
+<dcat:description>Νομικό Πλαίσιο για την προστασία και τη δαχείριση των Ευρωπαϊκών Θαλασσών και την εξασφάλιση της μακροπρόθεσμης και βιώσιμης χρήσης τους. Βασικός στόχος της Οδηγίας είναι η επίτευξη και η διατήρηση της καλής περιβαλλοντικής κατάστασης, μέχρι το 2020.  </dcat:description>
+<dcat:theme>Περιβάλλον</dcat:theme>
+<dcat:keyword>Περιβάλλον</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1212"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1212">
+		<vcard:fn>Σάββας Μιχαηλίδης </vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:smichaelides@dfmr.moa.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1212">
+<dcterms:description>HTML</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.moa.gov.cy/moa/dfmr/dfmr.nsf/DMLfisheries1_gr/DMLfisheries1_gr?OpenDocument"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1805">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1805">
+      <foaf:name>1805 - ΣΤΑΤΙΣΤΙΚΗ ΥΠΗΡΕΣΙΑ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0567767888D6728FC2257D93004780DD">
+<dcat:title  xml:lang="el">Εγγεγραμμένοι Άνεργοι κατά Επαγγελματική Κατηγορία, 1992-2013</dcat:title>
+<dcat:description>Αριθμός των Εγγεγραμμένων Ανέργων στην υπηρεσία Δημόσια Απασχόλησης κατά Επαγγελματική Κατηγορία σύμφωνα με το σύστημα ταξινόμησης ISCO 1988 (μέσος όρος έτους)</dcat:description>
+<dcat:theme>Απασχόληση</dcat:theme>
+<dcat:keyword>Απασχόληση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1805"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1805">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1805">
+<dcterms:description>CSV</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0567767888D6728FC2257D93004780DD/$file/Register_Unemployed.csv"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds0695E23B467B18CAC2257D9300490772">
+<dcat:title  xml:lang="el">Εθνικοί Λογαριασμοί, 1995-2013</dcat:title>
+<dcat:description>Στατιστικά στοιχεία για την οικονομία της Κύπρου σύμφωνα με τους Εθνικούς Λογαριασμούς. Παρουσιάζονται δεδομένα για το ΑΕΠ, την ακαθάριστη προστιθέμενη αξία, το κατά κεφαλή εισόδημα κ.α.      </dcat:description>
+<dcat:theme>Οικονομία</dcat:theme>
+<dcat:keyword>Οικονομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1805"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1805">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1805">
+<dcterms:description>XLS</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/0695E23B467B18CAC2257D9300490772/$file/NATIONAL_ACCOUNTS-A95_13-EL-151014.xls"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds3D252BF6D82B59FFC2257D930048D8A6">
+<dcat:title  xml:lang="el">Πληθυσμός κάτα Φύλο και Ηλικία, 1994-2013</dcat:title>
+<dcat:description>Εκτίμηση του de jure πληθυσμού κατά φύλο και ηλικία στις 31 Δεκεμβρίου κάθε έτους</dcat:description>
+<dcat:theme>Κοινωνία</dcat:theme>
+<dcat:keyword>Κοινωνία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1805"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1805">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1805">
+<dcterms:description>CSV</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/3D252BF6D82B59FFC2257D930048D8A6/$file/Population_SexandAge.csv"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds9BE1FD932891E68FC2257D93004866A1">
+<dcat:title  xml:lang="el">Εθνικοί Λογαριασμοί, 1995-2013</dcat:title>
+<dcat:description>Στατιστικά στοιχεία για την οικονομία της Κύπρου σύμφωνα με τους Εθνικούς Λογαριασμούς. Παρουσιάζονται δεδομένα για το ΑΕΠ, την ακαθάριστη προστιθέμενη αξία, το κατά κεφαλή εισόδημα κ.α.    </dcat:description>
+<dcat:theme>Οικονομία</dcat:theme>
+<dcat:keyword>Οικονομία</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1805"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1805">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1805">
+<dcterms:description>CSV</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/9BE1FD932891E68FC2257D93004866A1/$file/National_Accounts.csv"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds972BC625113DCAC3C2257D9A00499456">
+<dcat:title  xml:lang="el">Αφίξεις Τουριστών, 1986-2013</dcat:title>
+<dcat:description>Αφίξεις περιηγητών στην Κύπρο κατά χώρα συνήθους διαμονής. Παρουσιάζονται οι κυριότερες χώρες</dcat:description>
+<dcat:theme>Τουρισμός</dcat:theme>
+<dcat:keyword>Τουρισμός</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1805"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1805">
+		<vcard:fn></vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1805">
+<dcterms:description>CSV</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/972BC625113DCAC3C2257D9A00499456/$file/Tourists_Arrivals.csv"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+</dcat:Catalog><dcat:Catalog rdf:about="idCatOrg1807">
+<dcterms:language>el</dcterms:language>
+<dcat:license>http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/aboutus_gr/aboutus_gr?opendocument</dcat:license>
+
+<dcat:publisher>
+<foaf:Organization  rdf:about="idOrg1807">
+      <foaf:name>1807 - ΤΜΗΜΑ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΡΟΣΩΠΙΚΟΥ</foaf:name>
+ </foaf:Organization>
+ </dcat:publisher>
+
+<dcat:dataset>
+<dcat:Dataset rdf:about="ds5A44372DF758F69FC2257D720028FEA0">
+<dcat:title  xml:lang="el">Κατανομή  Εναλλάξιμου Προσωπικού, στις διάφορες Κυβερνητικές Υπηρεσίες κατά τον Σεμπτέμβριο 2014.</dcat:title>
+<dcat:description>Κατανομή  Εναλλάξιμου Προσωπικού,(Γενικού Διοικητικού, Γενικού Γραμματειακού και Γενικού Βοηθητικού Προσωπικού στα διάφορα Υπουργεία / Τμήματα /Ανεξάρτητες Υπηρεσίες της Δημόσιας Υπηρεσίας, κατά την 30η Σεμπτέμβριο 2014.</dcat:description>
+<dcat:theme>Απασχόληση</dcat:theme>
+<dcat:keyword>Απασχόληση</dcat:keyword>
+<dcat:publisher rdf:resource="idPub1807"></dcat:publisher>
+<dcat:contactPoint>
+      <vcard:Individual rdf:about="idCont1807">
+		<vcard:fn>Δημήτρης Μιχαήλ</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:dmichail@papd.mof.gov.cy"/>
+  	</vcard:Individual>
+</dcat:contactPoint>
+<dcat:distribution>
+<dcat:Distribution rdf:about="idDist1807">
+<dcterms:description>XLS</dcterms:description>
+<dcat:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"></dcat:license>
+<dcat:accessURL rdf:resource="http://www.data.gov.cy/mof/papd/dataportal/dataportal.nsf/5A44372DF758F69FC2257D720028FEA0/$file/Κατανομή Εναλλάξιμου Προσωπικου - Σεπτέμβριος 2014.xlsx"></dcat:accessURL>
+</dcat:Distribution>
+</dcat:distribution>
+</dcat:Dataset>
+</dcat:dataset>
+
+
+</dcat:Catalog></rdf:RDF>

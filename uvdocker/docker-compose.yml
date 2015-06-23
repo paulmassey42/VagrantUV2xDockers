@@ -1,0 +1,32 @@
+backend:
+    build: uv-backend
+    volumes:
+     - "/vagrant/uvdocker/:/uvdocker/"
+    links:
+     - db
+    ports:
+     - 8000:8000
+    environment:
+     - MYSQL_DATABASE=unifiedviews
+     - MYSQL_ROOT_PASSWORD=root
+     - MYSQL_USER unifiedviews
+     - MYSQL_PASSWORD unifiedviews
+frontend:
+    build: uv-frontend
+    volumes:
+     - "./:/uvdocker/"
+    links:
+     - backend
+    ports:
+     - 28080:28080
+db:
+    build: uv-db
+    volumes:
+    - "./:/uvdocker/"
+    environment:
+     - MYSQL_DATABASE=unifiedviews
+     - MYSQL_ROOT_PASSWORD=root
+     - MYSQL_USER unifiedviews
+     - MYSQL_PASSWORD unifiedviews
+virtuoso:
+    image: tenforce/virtuoso
