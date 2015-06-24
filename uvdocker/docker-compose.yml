@@ -6,6 +6,7 @@ backend:
      - db
     ports:
      - 8000:8000
+     - 5010:5010
     environment:
      - MYSQL_DATABASE=unifiedviews
      - MYSQL_ROOT_PASSWORD=root
@@ -30,3 +31,5 @@ db:
      - MYSQL_PASSWORD unifiedviews
 virtuoso:
     image: tenforce/virtuoso
+    ports:
+     - 1111:1111
