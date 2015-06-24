@@ -10,3 +10,5 @@ RUN cd Core && JAVA_OPTS="-Xms3048m -Xmx3048m -XX:MaxPermSize=500M -XX:+CMSClass
 RUN cp /Core/frontend/target/unifiedviews.war /tomcat/webapps
 ADD config.frontend.properties /tomcat/webapps/unifiedviews/WEB-INF/config.properties
 EXPOSE 28080
+EXPOSE 8080
+EXPOSE 80

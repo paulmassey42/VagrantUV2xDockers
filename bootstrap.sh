@@ -25,9 +25,12 @@ curl -L https://github.com/docker/compose/releases/download/1.3.0/docker-compose
 chmod +x /usr/local/bin/docker-compose
 
 ####################################################################
+# Use the installed docker-compose to pre-build the dockers to be
+# executed.
+( cd /vagrant/uvdocker ; service docker start ; docker-compose build )
+
+####################################################################
 # Setup other services
-# update-rc.d unifiedviews-backend defaults
-# Allows login without password
 echo "vagrant ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/vagrant
 
 ####################################################################
@@ -35,25 +38,7 @@ echo "vagrant ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/vagrant
 echo "user_pref(\"browser.startup.homepage\", \"http://localhost:28080/unifiedviews\");" >> /etc/iceweasel/pref/iceweasel.js
 echo "_user_pref(\"browser.startup.homepage\", \"http://localhost:28080/unifiedviews\");" >> /etc/iceweasel/profile/prefs.js
 
-( cd /vagrant/uvdocker ;
-  if [ -d Plugin-DevEnv ]
-  then
-      git clone https://github.com/UnifiedViews/Plugin-DevEnv.git
-  else
-      cd Plugin-DevEnv; git pull
-  fi )
-
-( cd /vagrant/uvdocker ;
-  if [ -d Core ]
-  then
-      git clone --branch=UV_Core_v2.0.3 https://github.com/UnifiedViews/Core.git
-  else
-      cd Core; git pull
-  fi )
-
-
 ####################################################################
 apt-get autoclean
 echo "****** done with bootstraping"
 ####################################################################
-
