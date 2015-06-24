@@ -20,6 +20,8 @@ frontend:
      - backend
     ports:
      - 28080:28080
+     - 8080:8080
+     - 80:80
 db:
     build: uv-db
     volumes:
@@ -33,3 +35,5 @@ virtuoso:
     image: tenforce/virtuoso
     ports:
      - 1111:1111
+     - 8890:8890
+     
