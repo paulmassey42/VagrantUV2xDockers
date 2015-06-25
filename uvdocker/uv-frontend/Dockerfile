@@ -2,13 +2,30 @@ FROM tutum/tomcat:7.0
 MAINTAINER pma
 RUN apt-get update && \
     apt-get install -y openjdk-7-jre openjdk-7-jdk git maven bash vim wget curl
+
 RUN git clone --branch=UV_Core_v2.0.3 https://github.com/UnifiedViews/Core.git
+RUN git clone --branch=UV_Plugins_v2.0.1 https://github.com/UnifiedViews/Plugins.git
+
 ENV JAVA_OPTS "-Xms4048m -Xmx4048m"
 ENV MAVEN_OPTS "-Xmx512m -XX:MaxPermSize=128m"
+
+# Try to Reuse the DPU install script to put the dpus where they should be
+RUN git clone https://github.com/UnifiedViews/Packages.git \
+    && cp Packages/unifiedviews-plugins/deploy-dpus.sh /deploy-dpus.sh \
+    && chmod a+x /deploy-dpus.sh
+
+# Not sure whether this should be here or not
+RUN cd Plugins \
+    && mvn -Dmaven.javadoc.skip=true install \
+    && mkdir -p /usr/share/unifiedviews/dist/plugins/ \
+    && cp */target/uv-*.jar /usr/share/unifiedviews/dist/plugins/
+
 # Do nothing with Javadocs ...
-RUN cd Core && JAVA_OPTS="-Xms3048m -Xmx3048m -XX:MaxPermSize=500M -XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled" mvn -Dmaven.javadoc.skip=true install
+RUN cd Core && mvn -Dmaven.javadoc.skip=true install
 RUN cp /Core/frontend/target/unifiedviews.war /tomcat/webapps
 ADD config.frontend.properties /tomcat/webapps/unifiedviews/WEB-INF/config.properties
+# Start the service and install the dpus
+RUN service tomcat restart && /deploy-dpus.sh
 EXPOSE 28080
 EXPOSE 8080
 EXPOSE 80

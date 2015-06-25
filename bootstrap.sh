@@ -35,8 +35,8 @@ echo "vagrant ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/vagrant
 
 ####################################################################
 # Change the default homepage
-echo "user_pref(\"browser.startup.homepage\", \"http://localhost:28080/unifiedviews\");" >> /etc/iceweasel/pref/iceweasel.js
-echo "_user_pref(\"browser.startup.homepage\", \"http://localhost:28080/unifiedviews\");" >> /etc/iceweasel/profile/prefs.js
+echo "user_pref(\"browser.startup.homepage\", \"http://localhost:8080/unifiedviews\");" >> /etc/iceweasel/pref/iceweasel.js
+echo "_user_pref(\"browser.startup.homepage\", \"http://localhost:8080/unifiedviews\");" >> /etc/iceweasel/profile/prefs.js
 
 ####################################################################
 apt-get autoclean

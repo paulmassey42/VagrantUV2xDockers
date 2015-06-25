@@ -7,7 +7,10 @@ RUN git clone --branch=UV_Plugin-DevEnv_v2.0.1 https://github.com/UnifiedViews/P
 # Do nothing with Javadocs ...
 RUN cd Core && mvn -Dmaven.javadoc.skip=true install
 RUN cd Plugin-DevEnv && mvn -Dmaven.javadoc.skip=true install
-COPY config.backend.properties backend/target/config.properties
-RUN cd Plugin-DevEnv && mvn -Dmaven.javadoc.skip=true install
+ADD config.backend.properties /Core/backend/target/config.properties
+RUN (echo "create database unifiedviews; use unifiedviews;" ; cat Core/db/mysql/schema.sql Core/db/mysql/data.sql ) > /init-script.sql
+COPY backend-entrypoint.sh /backend-entrypoint.sh
+RUN chmod 755 /*.sh
+ENTRYPOINT ["/backend-entrypoint.sh"]
+CMD ["uv-backend-start"]
 EXPOSE 5010
-CMD "nohup java -DconfigFileLocation=/Core/backend/target/config.properties -jar Core/backend/target/backend-11.jar"

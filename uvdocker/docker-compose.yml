@@ -5,23 +5,27 @@ backend:
     links:
      - db
     ports:
-     - 8000:8000
-     - 5010:5010
+     - "5010:5010"
+    volumes_from:
+     - db
     environment:
      - MYSQL_DATABASE=unifiedviews
      - MYSQL_ROOT_PASSWORD=root
-     - MYSQL_USER unifiedviews
-     - MYSQL_PASSWORD unifiedviews
+     - MYSQL_USER=unifiedviews
+     - MYSQL_PASSWORD=unifiedviews
 frontend:
     build: uv-frontend
     volumes:
      - "./:/uvdocker/"
     links:
      - backend
+     - db
+    volumes_from:
+     - backend
     ports:
-     - 28080:28080
-     - 8080:8080
-     - 80:80
+     - "28080:28080"
+     - "8080:8080"
+     - "80:80"
 db:
     build: uv-db
     volumes:
@@ -29,11 +33,11 @@ db:
     environment:
      - MYSQL_DATABASE=unifiedviews
      - MYSQL_ROOT_PASSWORD=root
-     - MYSQL_USER unifiedviews
-     - MYSQL_PASSWORD unifiedviews
+     - MYSQL_USER=unifiedviews
+     - MYSQL_PASSWORD=unifiedviews
 virtuoso:
     image: tenforce/virtuoso
     ports:
-     - 1111:1111
-     - 8890:8890
+     - "1111:1111"
+     - "8890:8890"
      
