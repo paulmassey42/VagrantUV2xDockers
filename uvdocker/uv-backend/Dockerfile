@@ -2,6 +2,10 @@ FROM debian:8.0
 MAINTAINER pma
 RUN apt-get update -y && \
     apt-get install -y openjdk-7-jre openjdk-7-jdk git maven bash vim mysql-client-5.5
+
+ADD ojdbc7.jar /ojdbc7.jar
+RUN mvn install:install-file -Dfile=/ojdbc7.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0.2.0 -Dpackaging=jar
+
 RUN git clone --branch=UV_Core_v2.0.3 https://github.com/UnifiedViews/Core.git
 RUN git clone --branch=UV_Plugin-DevEnv_v2.0.1 https://github.com/UnifiedViews/Plugin-DevEnv.git
 # Do nothing with Javadocs ...

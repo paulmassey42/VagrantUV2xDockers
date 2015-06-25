@@ -3,6 +3,9 @@ MAINTAINER pma
 RUN apt-get update && \
     apt-get install -y openjdk-7-jre openjdk-7-jdk git maven bash vim wget curl
 
+ADD ojdbc7.jar /ojdbc7.jar
+RUN mvn install:install-file -Dfile=/ojdbc7.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0.2.0 -Dpackaging=jar
+
 RUN git clone --branch=UV_Core_v2.0.3 https://github.com/UnifiedViews/Core.git
 RUN git clone --branch=UV_Plugins_v2.0.1 https://github.com/UnifiedViews/Plugins.git
 
@@ -24,8 +27,12 @@ RUN cd Plugins \
 RUN cd Core && mvn -Dmaven.javadoc.skip=true install
 RUN cp /Core/frontend/target/unifiedviews.war /tomcat/webapps
 ADD config.frontend.properties /tomcat/webapps/unifiedviews/WEB-INF/config.properties
+ADD run.sh /run.sh
+RUN chmod +x /*.sh
+
 # Start the service and install the dpus
-RUN service tomcat restart && /deploy-dpus.sh
 EXPOSE 28080
 EXPOSE 8080
 EXPOSE 80
+
+CMD ["/run.sh"]
