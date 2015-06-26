@@ -35,9 +35,4 @@ db:
      - MYSQL_ROOT_PASSWORD=root
      - MYSQL_USER=unifiedviews
      - MYSQL_PASSWORD=unifiedviews
-virtuoso:
-    image: tenforce/virtuoso
-    ports:
-     - "1111:1111"
-     - "8890:8890"
-     
+    

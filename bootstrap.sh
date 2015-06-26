@@ -27,7 +27,7 @@ chmod +x /usr/local/bin/docker-compose
 ####################################################################
 # Use the installed docker-compose to pre-build the dockers to be
 # executed.
-( cd /vagrant/uvdocker ; service docker start ; docker-compose build )
+# ( cd /vagrant/uvdocker ; service docker start ; docker-compose build )
 
 ####################################################################
 # Setup other services
