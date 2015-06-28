@@ -1,9 +1,20 @@
+db:
+    build: uv-db
+    volumes:
+    - "./:/uvdocker/"
+    environment:
+     - MYSQL_DATABASE=unifiedviews
+     - MYSQL_ROOT_PASSWORD=root
+     - MYSQL_USER=unifiedviews
+     - MYSQL_PASSWORD=unifiedviews
+    ports:
+     - "3306:3306"
 backend:
     build: uv-backend
     volumes:
      - "/vagrant/uvdocker/:/uvdocker/"
     links:
-     - db
+     - db:db
     ports:
      - "5010:5010"
     volumes_from:
@@ -26,13 +37,3 @@ frontend:
      - "28080:28080"
      - "8080:8080"
      - "80:80"
-db:
-    build: uv-db
-    volumes:
-    - "./:/uvdocker/"
-    environment:
-     - MYSQL_DATABASE=unifiedviews
-     - MYSQL_ROOT_PASSWORD=root
-     - MYSQL_USER=unifiedviews
-     - MYSQL_PASSWORD=unifiedviews
-    

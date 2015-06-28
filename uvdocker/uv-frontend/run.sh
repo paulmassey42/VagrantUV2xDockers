@@ -1,8 +1,10 @@
 #!/bin/bash
 
+${CATALINA_HOME}/bin/catalina.sh run &
+sleep 20;
 if [ ! -f /.dpus_installed ]; then
-    /deploy-dpus.sh
+    sleep 10;
+    /deployrun.sh;
     touch /.dpus_installed
 fi
-
-exec ${CATALINA_HOME}/bin/catalina.sh run
+wait
